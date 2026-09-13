@@ -16,9 +16,9 @@
 <p align="center">🚀 Jobs across Spain in tech, finance, healthcare, and more. Postings are shown in their original language, refreshed daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spain%20Jobs-1212-3FB950?style=flat&logo=briefcase" height="30" alt="Spain Jobs">
+  <img src="https://img.shields.io/badge/Spain%20Jobs-1215-3FB950?style=flat&logo=briefcase" height="30" alt="Spain Jobs">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-207-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
-  <img src="https://img.shields.io/badge/Companies-127-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Companies-128-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | TÉCNICO/A INFORMÁTICO PROGRAMADOR DE SISTEMAS DE CONTROL Y AUTOMATIZACIÓN | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000126082629?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | TÉCNICO/A INFORMÁTICO PROGRAMADOR DE SISTEMAS DE CONTROL Y AUTOMATIZACIÓN | Barcelona, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000126082629?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | DevOps Engineer (English is a MUST) | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000060310415?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Dynamics 365 CRM Developer (100% remote within Spain) | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000020416860?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Backend Microservicios con Inglés | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000112649865?s=gh-spain-jobs-2027) |
@@ -167,9 +167,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Técnico mantenimiento Bizkaia (M/H) | Zamudio, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-743999984069554?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico de mantenimiento | Torremejía, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-743999983761144?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a de Mantenimiento Polivalente (Electricidad, Climatización, etc.) | Vecindario, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000048993746?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico mantenimiento Bizkaia (M/H) | Zamudio, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-743999984069554?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico de mantenimiento | Torremejía, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-743999983761144?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Mantenimiento Polivalente (Electricidad, Climatización, etc.) | Vecindario, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000048993746?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Agente de Soporte de Aplicaciones N1 | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000095931755?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Ingeniero/a Soporte Funcional Eléctrico con inglés alto | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000133009005?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Consultor Técnico Junior | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000137408499?s=gh-spain-jobs-2027) |
@@ -228,9 +228,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Ingeniero de Mantenimiento H/M | Torremejía, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000059973335?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Ingeniero/a de Obras de Instalaciones Eléctricas/Mecánicas | Fañabé, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000059392288?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | CMS Account Manager (Guipúzcoa) | San Sebastián, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000058382725?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Ingeniero de Mantenimiento H/M | Torremejía, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000059973335?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Ingeniero/a de Obras de Instalaciones Eléctricas/Mecánicas | Fañabé, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000059392288?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | CMS Account Manager (Guipúzcoa) | San Sebastián, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000058382725?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | IT Business Analyst ( Barcelona - English Mandatory) | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000063451311?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Open Application | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000053277038?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Incident Manager / Change Manager (Català imprescindible) | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000050969942?s=gh-spain-jobs-2027) |
@@ -256,16 +256,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Estudiante en prácticas_Departamento TEF 7 | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-743999820386042?s=gh-spain-jobs-2027) |
 | **Bosch Group** | Estudiante en prácticas - Departamento de TEF8.4 (Funciones Técnicas) | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000025286225?s=gh-spain-jobs-2027) |
 | **ClickHouse** | Solutions Architect - Spain | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-clickhouse-02e6d921-227f-4f72-b1b6-495e091297e6?s=gh-spain-jobs-2027) |
-| **Veeva Systems** | Technical Consultant - Integrations | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-dd1d2834-b9d2-400b-987e-d9b102c3996b?s=gh-spain-jobs-2027) |
 | **Veeva Systems** | University Recruiter | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-87163d3b-fcbb-4a5f-a31f-b62351cc855b?s=gh-spain-jobs-2027) |
 | **Veeva Systems** | Solution Consultant - Quality | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-4f91e880-e86f-4fd8-9abd-ba70c7a756a1?s=gh-spain-jobs-2027) |
+| **Veeva Systems** | Team Lead - ODC | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-7186634a-ed2a-4ed5-a8da-9dc0678ded45?s=gh-spain-jobs-2027) |
 | **Rover** | Trust and Safety Agent - French Speaking (Mon-Fri) | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-rover-7cd71faa-5b4b-4476-ace6-0a19623569cf?s=gh-spain-jobs-2027) |
 | **Rover** | Trust and Safety Agent - French Speaking (Tue-Sat) | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-rover-a9df3669-d156-4d19-ab06-1e3e2dab2f98?s=gh-spain-jobs-2027) |
 | **Rover** | Trust and Safety Agent - German Speaking (Mon-Fri) | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-rover-1c334d74-861c-4872-8906-499e1d4202ce?s=gh-spain-jobs-2027) |
-| **Palantir** | Deployment Strategist - Spain | Madrid | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-palantir-1f007e36-a620-4d15-bf0b-70dc3f3439d8?s=gh-spain-jobs-2027) |
 | **AbbVie** | Copy of Delegado/a Especialista Ventas Oftalmología | Salamanca, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990013635326?s=gh-spain-jobs-2027) |
 | **AbbVie** | Delegado/a Especialista Ventas Oftalmología | Valladolid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990013635256?s=gh-spain-jobs-2027) |
 | **AbbVie** | Beca ACE | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990014218836?s=gh-spain-jobs-2027) |
+| **Palantir** | Deployment Strategist - Spain | Madrid | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-palantir-1f007e36-a620-4d15-bf0b-70dc3f3439d8?s=gh-spain-jobs-2027) |
 | **ElevenLabs** | Enterprise Solutions Engineer - Spain | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-elevenlabs-b081fafb-3659-4bf6-8e87-eb5ccc3ff234?s=gh-spain-jobs-2027) |
 | **ElevenLabs** | Deployment Strategist - Spain | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-elevenlabs-6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd?s=gh-spain-jobs-2027) |
 | **Dandy** | Commercial Account Executive, SMB (SP) | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-dandy-776278fd-cccc-4548-8778-59f29c8f3e07?s=gh-spain-jobs-2027) |
@@ -305,6 +305,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Thales** | New Product Engineer Intern | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0337003?s=gh-spain-jobs-2027) |
 | **Hitachi** | PARTNER ACCOUNT MANAGER | Madrid Spain, ES +1 more | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0143733?s=gh-spain-jobs-2027) |
 | **American Tower** | Specialist - Land Negotiations | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-american-tower-2947?s=gh-spain-jobs-2027) |
+| **Warner Bros. Discovery** | Sales Coordinator | Madrid C/ Martinez Villergas 52, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-warnerbros-global-R000108573?s=gh-spain-jobs-2027) |
 | **KBR** | UABOS Spain LN: WRM Customer Service Assistant | Seville | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129681?s=gh-spain-jobs-2027) |
 | **KBR** | UABOS Spain LN: WRM Vehicle Mechanic | Seville | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129679?s=gh-spain-jobs-2027) |
 | **CrowdStrike** | EMEA HR Compliance Manager | Spain - Barcelona, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30021?s=gh-spain-jobs-2027) |
@@ -326,7 +327,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Deutsche Bank** | Risk Specialist (f/m/x) | Madrid Paseo Castellana 18, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0436174?s=gh-spain-jobs-2027) |
 | **Mastercard** | Associate Managing Consultant, Advisors & Consulting Services, Marketing | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-290086?s=gh-spain-jobs-2027) |
 | **ABB** | Health, Safety and Environment Specialist | Sant Quirze del Valles | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00042777?s=gh-spain-jobs-2027) |
-| **Warner Bros. Discovery** | Sales Coordinator | Madrid C/ Martinez Villergas 52, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-warnerbros-global-R000108573?s=gh-spain-jobs-2027) |
 | **Medtronic** | Customer Service Specialist | Madrid Madrid Spain, ES +1 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R75615?s=gh-spain-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
@@ -407,7 +407,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1212 current opportunities from 127 companies**
+**🎯 1215 current opportunities from 128 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
