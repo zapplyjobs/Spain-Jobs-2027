@@ -156,12 +156,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Johnson & Johnson** | Iberia EP/NV Supply Chain Specialist | Madrid | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100076?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Ingeniero junior de soporte de Soluciones Digitales. (Energía, Residuos y Agua Industrial). | Madrid, ES | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000150450958?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Ingeniero junior de soporte de Soluciones Digitales. (Energía, Residuos y Agua Industrial). | Madrid, ES | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000150450958?s=gh-spain-jobs-2027) |
+| **Johnson & Johnson** | Iberia EP/NV Supply Chain Specialist | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100076?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Responsable de Operaciones de Redes de Alcantarillado. | Les Roquetes, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000150389958?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Nóminas. | Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000150385809?s=gh-spain-jobs-2027) |
 | **Eurofins** | PERSONAL TÉCNICO DE TOMA DE MUESTRAS | Palma de Mallorca, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000150384007?s=gh-spain-jobs-2027) |
-| **Johnson & Johnson** | Inside Sales & MKT support specialist | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097190?s=gh-spain-jobs-2027) |
+| **Johnson & Johnson** | Inside Sales & MKT support specialist | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097190?s=gh-spain-jobs-2027) |
 | **Boeing** | Supply Chain Specialist (Customer onsite) | ESP - Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026520197?s=gh-spain-jobs-2027) |
 | **HPE** | Account Support Manager | Las Rozas | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1212328?s=gh-spain-jobs-2027) |
 | **Dandy** | Clinical Support Team Lead (Spain) | Spain - Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-dandy-fc712fc1-3700-4f74-9f4b-6c7f46fbec19?s=gh-spain-jobs-2027) |
@@ -218,11 +218,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **HP Inc** | Medium Business Inside Sales Manager  - German Speaking | Sant Cugat del Valles | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168608?s=gh-spain-jobs-2027) |
+| **HP Inc** | Medium Business Inside Sales Manager  - German Speaking | Sant Cugat del Valles | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168608?s=gh-spain-jobs-2027) |
 | **Dexcom** | Communications & Patient Advocacy Associate Manager | Madrid Spain, ES +1 more | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dexcom-dexcom-JR121217?s=gh-spain-jobs-2027) |
-| **Johnson & Johnson** | Tendering & Sales Analyst Trainee | Madrid | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097743?s=gh-spain-jobs-2027) |
-| **Johnson & Johnson** | Global Customer Solutions Manager Spain | Madrid | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-092230?s=gh-spain-jobs-2027) |
-| **Thales** | Project Quality Assurance (PA) (m/f) | Madrid Tres Cantos, ES | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0339420?s=gh-spain-jobs-2027) |
+| **Thales** | Project Quality Assurance (PA) (m/f) | Madrid Tres Cantos, ES | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0339420?s=gh-spain-jobs-2027) |
+| **Johnson & Johnson** | Global Customer Solutions Manager Spain | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-092230?s=gh-spain-jobs-2027) |
+| **Johnson & Johnson** | Tendering & Sales Analyst Trainee | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097743?s=gh-spain-jobs-2027) |
 | **Medtronic** | Sales Representative | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R73085?s=gh-spain-jobs-2027) |
 | **Medtronic** | Sales Representative | Vigo | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77653?s=gh-spain-jobs-2027) |
 | **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-jobs-2027) |
