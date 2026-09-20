@@ -16,7 +16,7 @@
 <p align="center">🚀 Jobs across Spain in tech, finance, healthcare, and more. Postings are shown in their original language, refreshed daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spain%20Jobs-816-3FB950?style=flat&logo=briefcase" height="30" alt="Spain Jobs">
+  <img src="https://img.shields.io/badge/Spain%20Jobs-817-3FB950?style=flat&logo=briefcase" height="30" alt="Spain Jobs">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-108-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
   <img src="https://img.shields.io/badge/Companies-127-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -300,7 +300,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Santander** | Front Office XVA Quant - SCIB | Boadilla del Monte, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1611586?s=gh-spain-jobs-2027) |
 | **BBVA** | GESTIÓN COMERCIAL: OFICINAS BBVA DE BALEARES, MURCIA Y C. VALENCIANA | España, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbva-bbva-JR00114814?s=gh-spain-jobs-2027) |
 | **Deutsche Bank** | Investment Banking Associate – Spain Investment Banking and Capital Markets (f/m/x) | Madrid Paseo Castellana 18, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0451214?s=gh-spain-jobs-2027) |
-| **Baker Hughes** | Software Project Management Advisor | ES-OTHER SPAIN, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R165493?s=gh-spain-jobs-2027) |
 | **Autodesk** | Fusion Sales Representative, Dutch speaker | Barcelona ESP, ES +1 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD100566?s=gh-spain-jobs-2027) |
 | **Carrier Global** | Representante de ventas HVAC | Real De Pinto 91 | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30215599?s=gh-spain-jobs-2027) |
 | **Thermo Fisher Scientific** | QA Auditor III to QA Manager | Spain Spain, ES +2 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01366138?s=gh-spain-jobs-2027) |
@@ -313,6 +312,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GE Vernova** | Operario/a- Produccion | Castellon, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5053191?s=gh-spain-jobs-2027) |
 | **Tenstorrent** | Midcore Design Verification Engineer | Santa Clara, CA +1 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tenstorrent-5238216007?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | BILBAO Auditora Tricalificadoa (ISO 90001, 14001, 45001) 1 1 Bizk | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1437448533?s=gh-spain-jobs-2027) |
+| **Baker Hughes** | Software Project Management Advisor | ES-OTHER SPAIN, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R165493?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Córdoba Beca Administración de Personal Córd | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1437413533?s=gh-spain-jobs-2027) |
 | **Abbott** | Sales & Therapy Specialist Intern - Madrid | Spain - Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162315?s=gh-spain-jobs-2027) |
 | **Abbott** | Medical Sales Representative Infectious Disease (Norte, Cantabria, Castilla y León) | Spain - L'Hospitalet de... | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161353?s=gh-spain-jobs-2027) |
@@ -398,7 +398,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 816 current opportunities from 127 companies**
+**🎯 817 current opportunities from 127 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
