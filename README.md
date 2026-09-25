@@ -162,7 +162,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Supplier Quality Assurance Specialist - Supply Chain - Granada | Spain - Granada, ES | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31158195?s=gh-spain-jobs-2027) |
 | **ABB** | Administrative Support – Sales | Trapagaran Bizkaia Spain, ES +1... | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00042573?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento Frigorista - Asistencia Técnica | Almería, ES | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151629319?s=gh-spain-jobs-2027) |
-| **Bosch Group** | German, Customer Support Agent | Barcelona, ES | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000151610519?s=gh-spain-jobs-2027) |
+| **Bosch Group** | German, Customer Support Agent | Barcelona, ES | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000151610519?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Técnico/a HVAC IV - Data Centers | Sant Boi-Barcelona-Spain, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30277248?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Técnico/a Instalaciones de control BMS - Sevilla | Mairena del... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30275289?s=gh-spain-jobs-2027) |
 | **Iberdrola** | Técnico/a Soporte y Estandarización en Ejecución de proyectos y soluciones de electrificación | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-29279?s=gh-spain-jobs-2027) |
@@ -231,13 +231,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **HPE** | Digital Sales SSP LASER | Barcelona Barcelona Spain, ES... | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1214862?s=gh-spain-jobs-2027) |
-| **AbbVie** | Gerente Territorial de Gestión Sanitaria / Key Account Manager (Market Access) | Sevilla, ES | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015669516?s=gh-spain-jobs-2027) |
-| **Cigna** | Inspector/a Hospitalario - Cigna Healthcare | ESP Barcelona, ES | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011135?s=gh-spain-jobs-2027) |
-| **Sopra Steria** | Vulnerability Engineer | Madrid, ES | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151787149?s=gh-spain-jobs-2027) |
-| **Intuitive** | EU Post Market Surveillance Specialist | Madrid, ES | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000151786819?s=gh-spain-jobs-2027) |
-| **Intuitive** | Clinical Territory Associate | Oviedo, ES | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000151783289?s=gh-spain-jobs-2027) |
-| **Sopra Steria** | Administrador/a Sistemas Windows | Madrid, ES | 50m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151780470?s=gh-spain-jobs-2027) |
+| **HPE** | Digital Sales SSP LASER | Barcelona Barcelona Spain, ES... | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1214862?s=gh-spain-jobs-2027) |
+| **AbbVie** | Gerente Territorial de Gestión Sanitaria / Key Account Manager (Market Access) | Sevilla, ES | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015669516?s=gh-spain-jobs-2027) |
+| **Cigna** | Inspector/a Hospitalario - Cigna Healthcare | ESP Barcelona, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011135?s=gh-spain-jobs-2027) |
+| **Sopra Steria** | Vulnerability Engineer | Madrid, ES | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151787149?s=gh-spain-jobs-2027) |
+| **Intuitive** | EU Post Market Surveillance Specialist | Madrid, ES | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000151786819?s=gh-spain-jobs-2027) |
+| **Intuitive** | Clinical Territory Associate | Oviedo, ES | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000151783289?s=gh-spain-jobs-2027) |
+| **Sopra Steria** | Administrador/a Sistemas Windows | Madrid, ES | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151780470?s=gh-spain-jobs-2027) |
 | **Scopely** | Client Engineer (Unity, Real User Monitoring) - Unannounced Project | ES - Barcelona | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scopely-5426001008?s=gh-spain-jobs-2027) |
 | **Fresenius Medical Care** | Enfermera/o (Roselló) | Diagonal | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0263336?s=gh-spain-jobs-2027) |
 | **Thales** | Ingeniero/a de procesos (SMD) | Barcelona, ES | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0330165?s=gh-spain-jobs-2027) |
