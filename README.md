@@ -232,12 +232,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Nike** | Nike Retail Associate (Athlete) - NIKE ZARAGOZA - Contrato Permanente - Part Time 16h/semana | Zaragoza | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-92807?s=gh-spain-jobs-2027) |
-| **Bosch Group** | Internship - Recruiting and HR | Madrid, ES | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000152105464?s=gh-spain-jobs-2027) |
-| **Sopra Steria** | Analista Orgánico Cobol Banca | Madrid, ES | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000152102059?s=gh-spain-jobs-2027) |
+| **Nike** | Nike Retail Associate (Athlete) - NIKE ZARAGOZA - Contrato Permanente - Part Time 16h/semana | Zaragoza | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-92807?s=gh-spain-jobs-2027) |
+| **Bosch Group** | Internship - Recruiting and HR | Madrid, ES | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000152105464?s=gh-spain-jobs-2027) |
+| **Sopra Steria** | Analista Orgánico Cobol Banca | Madrid, ES | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000152102059?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Ingeniero/a Energía o Electricidad Junior | Ontinyent, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000152085689?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Ingeniero/a de Proyectos Instalaciones Industriales | Torremejía, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000152083220?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Ingeniero/a Contratos de Mantenimiento | Puente Tocinos, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000152084169?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Ingeniero/a Contratos de Mantenimiento | Puente Tocinos, ES | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000152084169?s=gh-spain-jobs-2027) |
 | **Cigna** | Inspector/a Hospitalario - Cigna Healthcare | ESP Barcelona, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011135?s=gh-spain-jobs-2027) |
 | **Thales** | RF Engineer | Madrid Tres Cantos, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0335007?s=gh-spain-jobs-2027) |
 | **Thales** | RF Subsystem Engineer | Madrid Tres Cantos, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0335006?s=gh-spain-jobs-2027) |
