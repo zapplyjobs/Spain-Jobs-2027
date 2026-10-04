@@ -167,12 +167,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ABB** | Field Service Technician | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00019161?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | zaragoza Técnicoa de Estudios Técnicos 1 Zara | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1443595533?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a Electricista Especialista en CPD | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000152962249?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a RRHH y RRLL - Temporal | Barcelona, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000152949183?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a RRHH y RRLL - Temporal | Barcelona, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000152949183?s=gh-spain-jobs-2027) |
 | **Avnet** | Supply Chain Sales Support | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avnet-external-JR-024483?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Técnico/a de Instalaciones - Sistemas de Seguridad. Zaragoza | Las Rozas-Madrid-Spain, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30279019?s=gh-spain-jobs-2027) |
 | **TD Synnex** | Sales Operations Trainee – Networking Enterprise | Alcobendas | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56018?s=gh-spain-jobs-2027) |
 | **KION Group** | Field Service Engineer | Sevilla | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0097357?s=gh-spain-jobs-2027) |
-| **Microsoft** | Critical Environment Program Manager (Leased Datacenters) | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200057915?s=gh-spain-jobs-2027) |
+| **Microsoft** | Critical Environment Program Manager (Leased Datacenters) | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200057915?s=gh-spain-jobs-2027) |
 | **Cigna** | Financial Operations Support - Cigna Healthcare | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26011877?s=gh-spain-jobs-2027) |
 | **Bosch Group** | Atención al Cliente y Soporte Técnico con Italiano | Alcobendas, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000152609029?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Técnico/a Gestión de Identidades y Accesos (IAM) | Bilbao, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000152465449?s=gh-spain-jobs-2027) |
@@ -317,9 +317,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Representative Orden Entry - ADC - Madrid | Spain - Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31157898?s=gh-spain-jobs-2027) |
 | **Scopely** | Copywriter (FTC) - MONOPOLY GO! | ES - Barcelona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scopely-5437845008?s=gh-spain-jobs-2027) |
 | **Elastic** | Sales Development Representative (Swedish or Danish speaking) | Barcelona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-elastic-8121463?s=gh-spain-jobs-2027) |
-| **Dandy** | Founding Business Development Representative (BDR) – SP | Spain - Barcelona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-dandy-aa22ae9f-6cbd-4040-95f4-e16220c5f939?s=gh-spain-jobs-2027) |
-| **HP Inc** | Commercial Inside Account Executive - French Speaking | Sant Cugat del Valles | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168595?s=gh-spain-jobs-2027) |
-| **Avnet** | Administration & Facility Assistant | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avnet-external-JR-023916?s=gh-spain-jobs-2027) |
+| **Dandy** | Founding Business Development Representative (BDR) – SP | Spain - Barcelona | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-dandy-aa22ae9f-6cbd-4040-95f4-e16220c5f939?s=gh-spain-jobs-2027) |
+| **Medtronic** | Associate Therapy Sales Specialist (m/f/d) | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77636?s=gh-spain-jobs-2027) |
+| **Avis Budget Group** | Rental Sales Agent | Bilbao Ciudad, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0191082?s=gh-spain-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
