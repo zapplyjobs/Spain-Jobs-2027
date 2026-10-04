@@ -221,6 +221,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Thomson Reuters** | Commercial Account Manager Tax & Trade Spanish and English speaking | Madrid Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-Madrid?s=gh-spain-jobs-2027) |
+| **PTC** | Business Development Representative (DACH) | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR111131?s=gh-spain-jobs-2027) |
 | **Monolithic Power Systems** | Finance Analyst | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1463?s=gh-spain-jobs-2027) |
 | **Arch Capital Group** | Pricing Actuary | ESP Madrid, ES +1 more | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_1086?s=gh-spain-jobs-2027) |
 | **Dow Jones** | Content Quality Analyst | Spain - Barcelona, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_54918?s=gh-spain-jobs-2027) |
@@ -233,7 +234,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cigna** | Provider Claims Representative | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26012284?s=gh-spain-jobs-2027) |
 | **Brunswick** | Barcelona Dock Assistant | FBC Barcelona Base, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051802?s=gh-spain-jobs-2027) |
 | **Thermo Fisher Scientific** | Scientist II, Field Applications | Spain | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369319?s=gh-spain-jobs-2027) |
-| **PTC** | Business Development Representative (DACH) | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR111131?s=gh-spain-jobs-2027) |
 | **Carrier Global** | Delegado Comercial | Argenters. Pol.Ind. Vara De... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30214530?s=gh-spain-jobs-2027) |
 | **Clarios** | Professional Customer Excellence (m/f) | Spain | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD50525?s=gh-spain-jobs-2027) |
 | **Dexcom** | Commercial Execution & Enablement Manager – Healthcare – Barcelona | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dexcom-dexcom-JR121346?s=gh-spain-jobs-2027) |
