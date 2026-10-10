@@ -232,6 +232,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Boeing** | Aerospace Engineering Internship | ESP - Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525215?s=gh-spain-jobs-2027) |
 | **Nissan** | Energy Efficiency & Sustainability Engineer, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-jobs-2027) |
 | **PTC** | Business Development Representative - DACH | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112606?s=gh-spain-jobs-2027) |
 | **AIG** | Underwriting Assistant (German Speaker) | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2603556?s=gh-spain-jobs-2027) |
@@ -248,7 +249,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson & Johnson** | Clinical Sales Specialist, Zaragoza | Zaragoza | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-104100?s=gh-spain-jobs-2027) |
 | **Johnson & Johnson** | Sales representative Joints Mitek - Madrid (contrato temporal) | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103235?s=gh-spain-jobs-2027) |
 | **Johnson & Johnson** | Sales Representative Trauma, Madrid (Contrato Temporal, Sustitución de Persona Trabajadora) | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103220?s=gh-spain-jobs-2027) |
-| **Boeing** | Aerospace Engineering Internship | ESP - Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525215?s=gh-spain-jobs-2027) |
 | **Abbott** | Associate Technical Specialist - Automation - ADD | Spain - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163466?s=gh-spain-jobs-2027) |
 | **Abbott** | Technical Sales Representative CRM - Santa Cruz, Canary Islands | Spain - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31148471?s=gh-spain-jobs-2027) |
 | **Bosch Group** | Delegado/a comercial HVAC - Zona Centro para Bosch Home Comfort (m/h/d) | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154676259?s=gh-spain-jobs-2027) |
