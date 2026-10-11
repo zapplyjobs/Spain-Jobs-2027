@@ -262,6 +262,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Air Liquide** | EDUCADOR/A DIABETES | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10102796?s=gh-spain-jobs-2027) |
 | **Air Liquide** | PLANNING MANAGER | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10097102?s=gh-spain-jobs-2027) |
 | **Air Liquide** | Quality Responsible | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10102756?s=gh-spain-jobs-2027) |
+| **Cigna** | Agente de Atención al Cliente con Euskera (Temporal) - Cigna Healthcare | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26012386?s=gh-spain-jobs-2027) |
+| **Cigna** | Agente de Atención al Cliente con Catalán (Temporal)- Cigna Healthcare | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26012385?s=gh-spain-jobs-2027) |
+| **Cigna** | Agente de Atención al Cliente con Gallego (Temporal)- Cigna Healthcare | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26012527?s=gh-spain-jobs-2027) |
 | **Autodesk** | Fusion Account Executive - Expansion German speaker | Spain | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-autodesk-ext-26WD101552?s=gh-spain-jobs-2027) |
 | **Honeywell** | Technical Solutions Consultant - Process Automation - BESS and POWER m/f/d/ | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159654?s=gh-spain-jobs-2027) |
 | **Thales** | IS-IT Engineer Intern (Hybrid) | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0341794?s=gh-spain-jobs-2027) |
@@ -280,9 +283,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Santander** | Banquero/a Santander Private Banking Málaga | MALAGA, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1623222?s=gh-spain-jobs-2027) |
 | **HP Inc** | Commercial Inside Account Executive Italian speaking | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168650?s=gh-spain-jobs-2027) |
 | **TD Synnex** | Field Sales Executive Nuevos Negocios Retail | Barcelona Spain, ES +1 more | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R55554?s=gh-spain-jobs-2027) |
-| **Cigna** | Agente de Atención al Cliente con Euskera (Temporal) - Cigna Healthcare | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26012386?s=gh-spain-jobs-2027) |
-| **Cigna** | Agente de Atención al Cliente con Catalán (Temporal)- Cigna Healthcare | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26012385?s=gh-spain-jobs-2027) |
-| **Cigna** | Agente de Atención al Cliente con Gallego (Temporal)- Cigna Healthcare | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26012527?s=gh-spain-jobs-2027) |
 | **Eurofins** | Back Office | Castellón / Barcelona, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000154456916?s=gh-spain-jobs-2027) |
 | **Eurofins** | Account Manager | Ámbito Nacional, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000154445081?s=gh-spain-jobs-2027) |
 | **PricewaterhouseCoopers** | Assurance   Consultor Specialist PBC (Prevención Blanqueo de Capitales) | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-766828WD?s=gh-spain-jobs-2027) |
@@ -328,10 +328,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AstraZeneca** | Strategic Scientific Advisor | Spain - Field-Other | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261233?s=gh-spain-jobs-2027) |
 | **Stanley Black & Decker** | Delegado Comercial Sevilla-Cádiz | Bergueda | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000050870?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Indeferente Administrativoa Córd | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1444596533?s=gh-spain-jobs-2027) |
+| **Analog Devices** | FY27 Electronic Engineering Graduate Opportunities | Spain | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R266918?s=gh-spain-jobs-2027) |
 | **Hitachi** | PROJECT MANAGER | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0135809?s=gh-spain-jobs-2027) |
 | **Hitachi** | Especialista en HSE | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0137622?s=gh-spain-jobs-2027) |
 | **Dexcom** | Commercial Reporting and Insights Analyst – Healthcare – Barcelona, Spain | Barcelona | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dexcom-dexcom-JR121343?s=gh-spain-jobs-2027) |
-| **Clarios** | Professional Customer Excellence (Customer Service & Logistics) | Spain | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD50525?s=gh-spain-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
