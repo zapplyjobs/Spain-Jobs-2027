@@ -232,6 +232,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Carrier Global** | Mecánico Frigorista I | ESP2841: Avenida de la Industria 6 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30218878?s=gh-spain-jobs-2027) |
+| **Sony** | Marketing Analyst Intern | Barcelona, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sonyglobal-sonyglobalcareers-JR-119730?s=gh-spain-jobs-2027) |
 | **Unisys** | QA Automation Engineer | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576446?s=gh-spain-jobs-2027) |
 | **Nissan** | Energy Efficiency & Sustainability Engineer, Graduate Trainee | Cantabria, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-jobs-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete) - Contrato 12H Navidad -Nike Value Store H2O Rivas | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95289?s=gh-spain-jobs-2027) |
@@ -248,7 +249,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson & Johnson** | Clinical Sales Specialist, Zaragoza | Zaragoza | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-104100?s=gh-spain-jobs-2027) |
 | **Johnson & Johnson** | Sales representative Joints Mitek - Madrid (contrato temporal) | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103235?s=gh-spain-jobs-2027) |
 | **Johnson & Johnson** | Sales Representative Trauma, Madrid (Contrato Temporal, Sustitución de Persona Trabajadora) | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103220?s=gh-spain-jobs-2027) |
-| **Sony** | Marketing Analyst Intern | Barcelona, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sonyglobal-sonyglobalcareers-JR-119730?s=gh-spain-jobs-2027) |
 | **Danaher** | Field Application Engineer | Sevilla Spain, ES +1 more | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1318222?s=gh-spain-jobs-2027) |
 | **Bosch Group** | Delegado/a comercial HVAC - Zona Levante para Bosch Home Comfort (m/h/d) | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154664400?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Administrativo/a para el Sector de Mantenimiento de Instalaciones - Temporal | Valencia, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000154658280?s=gh-spain-jobs-2027) |
@@ -297,7 +297,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Carrier Global** | Delegado/a Comercial de Repuestos | ESP1901: Avda. Real de Pinto | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30219222?s=gh-spain-jobs-2027) |
 | **Medtronic** | Customer Service Specialist | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R75615?s=gh-spain-jobs-2027) |
 | **Scopely** | Associate Economy Game Designer | ES - Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scopely-5442573008?s=gh-spain-jobs-2027) |
-| **Avis Budget Group** | Rental Sales Agent | Bilbao Ciudad, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0191082?s=gh-spain-jobs-2027) |
+| **Avis Budget Group** | Rental Sales Agent | Bilbao Ciudad, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0191082?s=gh-spain-jobs-2027) |
 | **Nike** | Nike Store Associate (Athlete) - ZARAGOZA -  Temporada Navidad - Part Time (16hs) | Zaragoza | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95063?s=gh-spain-jobs-2027) |
 | **Iberdrola** | Experto en Ciberseguridad | Spain | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-25879?s=gh-spain-jobs-2027) |
 | **Envista Holdings** | Representante Comercial Canarias, Tenerife | Spain | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-envista-envistacareers-R5027435?s=gh-spain-jobs-2027) |
