@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **TD Synnex** | Cloud Marketplace and Process Analyst | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56893?s=gh-spain-jobs-2027) |
 | **CrowdStrike** | Sales Engineer, Cloud Security, Spanish Speaking (Hybrid, Barcelona) | Spain - Barcelona, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R29954?s=gh-spain-jobs-2027) |
+| **TD Synnex** | Cloud Marketplace and Process Analyst | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56893?s=gh-spain-jobs-2027) |
 | **GE Vernova** | Embedded SW Development Engineer | Zamudio, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5046605?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Key Account Manager Fire & Security - Levante | Valencia-Valencia-Spain, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30281711?s=gh-spain-jobs-2027) |
 | **Geotab** | Embedded Developer | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-geotab-5432726008?s=gh-spain-jobs-2027) |
@@ -328,10 +328,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AstraZeneca** | Strategic Scientific Advisor | Spain - Field-Other | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261233?s=gh-spain-jobs-2027) |
 | **Stanley Black & Decker** | Delegado Comercial Sevilla-Cádiz | Bergueda | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000050870?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Indeferente Administrativoa Córd | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1444596533?s=gh-spain-jobs-2027) |
+| **Thermo Fisher Scientific** | Scientist II, Field Applications | Spain Spain, ES +1 more | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369319?s=gh-spain-jobs-2027) |
+| **Thermo Fisher Scientific** | Software Contract Renewal Specialist | Alcobendas | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369273?s=gh-spain-jobs-2027) |
 | **ABB** | Technical Product Specialist - Electrification | Trapagaran Bizkaia Spain, ES +1... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00049389?s=gh-spain-jobs-2027) |
 | **ABB** | Technical Product Marketing Specialist - Electrification | Sant Quirze del Valles | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00049418?s=gh-spain-jobs-2027) |
-| **ABB** | Sales Specialist - Force Measurement | Madrid Madrid Spain, ES +2 more | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047560?s=gh-spain-jobs-2027) |
-| **Avnet** | Project Manager | Madrid Spain, ES +1 more | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avnet-external-JR-022161?s=gh-spain-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
