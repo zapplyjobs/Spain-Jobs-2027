@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **TD Synnex** | Cybersecurity Platform Engineer | Barcelona Spain, ES +2 more | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R54385?s=gh-spain-jobs-2027) |
+| **TD Synnex** | Cybersecurity Platform Engineer | Barcelona Spain, ES +2 more | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R54385?s=gh-spain-jobs-2027) |
 | **KION Group** | Software Developer | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0096468?s=gh-spain-jobs-2027) |
 | **GE Vernova** | Embedded SW Development Engineer | Zamudio, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5055853?s=gh-spain-jobs-2027) |
 | **GE Vernova** | Power Systems Engineer – Protection & Simulation | Zamudio, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5053452?s=gh-spain-jobs-2027) |
@@ -147,7 +147,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Salesforce** | AI Builder, Emerging Talent - Spanish Market | Spain - Madrid, ES | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360475?s=gh-spain-jobs-2027) |
+| **Salesforce** | AI Builder, Emerging Talent - Spanish Market | Spain - Madrid, ES | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360475?s=gh-spain-jobs-2027) |
 | **Salesforce** | AI Builder, Emerging Talent - Italian Market | Spain - Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360573?s=gh-spain-jobs-2027) |
 | **Celonis** | Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-7885993003?s=gh-spain-jobs-2027) |
 | **Celonis** | Associate (AI) Solution Consultant (Scale EMEA/German-Speaking) - Orbit Program | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8014300003?s=gh-spain-jobs-2027) |
@@ -166,8 +166,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **TD Synnex** | Sales Support Trainee– Networking Enterprise | Alcobendas | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56018?s=gh-spain-jobs-2027) |
-| **TD Synnex** | Prácticas en Business Operations y Soporte Comercial | Barcelona | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53953?s=gh-spain-jobs-2027) |
+| **TD Synnex** | Sales Support Trainee– Networking Enterprise | Alcobendas | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56018?s=gh-spain-jobs-2027) |
+| **TD Synnex** | Prácticas en Business Operations y Soporte Comercial | Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53953?s=gh-spain-jobs-2027) |
 | **Eurofins** | Técnico junior de laboratorio - Desarrollo Analítico | Esplugues de Llobregat, ES | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000155421019?s=gh-spain-jobs-2027) |
 | **Eurofins** | Técnico laboratorio - Desarrollo Analítico | Esplugues de Llobregat, ES | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000155420759?s=gh-spain-jobs-2027) |
 | **Bosch Group** | IT Operations Engineer (Junior) - Enterprise Collaboration Platforms | Huarte, ES | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000155290644?s=gh-spain-jobs-2027) |
@@ -230,16 +230,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **HPE** | Inside Sales Account Manager | Barcelona | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1207885?s=gh-spain-jobs-2027) |
-| **HPE (University)** | Inside Sales Account Manager | Barcelona | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1207885?s=gh-spain-jobs-2027) |
-| **Envista Holdings** | Software Development Engineer | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-envista-envistacareers-R5026435?s=gh-spain-jobs-2027) |
-| **AstraZeneca** | Global Study Associate, Late Development Oncology | Spain - Barcelona, ES | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261833?s=gh-spain-jobs-2027) |
-| **PricewaterhouseCoopers** | Programa de becas Fondos Europeos   Madrid ASS FY27 | Madrid, ES | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-729946WD?s=gh-spain-jobs-2027) |
-| **Carrier Global** | Mecánico Frigorista | ESP3542: CL Pintor Tapiró | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30216077?s=gh-spain-jobs-2027) |
-| **Carrier Global** | Mecánico Frigorista | ESP2184: Calle 16 de Julio, PM | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30208480?s=gh-spain-jobs-2027) |
-| **HP Inc** | Inside Sales Consultant - German Speaking | Sant Cugat del Valles | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168617?s=gh-spain-jobs-2027) |
-| **HP Inc** | Commercial Inside Account Executive – German Speaking | Sant Cugat del Valles | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168602?s=gh-spain-jobs-2027) |
-| **GE Vernova** | Commercial Proposal Manager | Madrid, ES +2 more | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5054711?s=gh-spain-jobs-2027) |
+| **HPE** | Inside Sales Account Manager | Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1207885?s=gh-spain-jobs-2027) |
+| **HPE (University)** | Inside Sales Account Manager | Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1207885?s=gh-spain-jobs-2027) |
+| **Envista Holdings** | Software Development Engineer | Spain | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-envista-envistacareers-R5026435?s=gh-spain-jobs-2027) |
+| **AstraZeneca** | Global Study Associate, Late Development Oncology | Spain - Barcelona, ES | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261833?s=gh-spain-jobs-2027) |
+| **PricewaterhouseCoopers** | Programa de becas Fondos Europeos   Madrid ASS FY27 | Madrid, ES | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-729946WD?s=gh-spain-jobs-2027) |
+| **Carrier Global** | Mecánico Frigorista | ESP3542: CL Pintor Tapiró | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30216077?s=gh-spain-jobs-2027) |
+| **Carrier Global** | Mecánico Frigorista | ESP2184: Calle 16 de Julio, PM | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30208480?s=gh-spain-jobs-2027) |
+| **HP Inc** | Inside Sales Consultant - German Speaking | Sant Cugat del Valles | 50m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168617?s=gh-spain-jobs-2027) |
+| **HP Inc** | Commercial Inside Account Executive – German Speaking | Sant Cugat del Valles | 50m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168602?s=gh-spain-jobs-2027) |
+| **GE Vernova** | Commercial Proposal Manager | Madrid, ES +2 more | 50m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5054711?s=gh-spain-jobs-2027) |
 | **Analog Devices** | Foundation IP Development Engineer | Spain | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R266026?s=gh-spain-jobs-2027) |
 | **Danaher** | Field Application Engineer | Bilbao | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1321026?s=gh-spain-jobs-2027) |
 | **Moderna** | Specialist, Quality Control | Madrid - Spain | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R20007?s=gh-spain-jobs-2027) |
