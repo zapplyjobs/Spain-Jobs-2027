@@ -168,10 +168,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Envista Holdings** | Technical support Specialist | Spain | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-envista-envistacareers-R5027708?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Coordinador/a BIM y técnico/a de proyectos de trazado con Civil | Murcia, ES | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157745389?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a de Hidrogeología | Murcia, ES | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157741519?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a de Proyectos y Mantenimiento SCADA | Alacant, ES | 46m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157741378?s=gh-spain-jobs-2027) |
+| **Envista Holdings** | Technical support Specialist | Spain | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-envista-envistacareers-R5027708?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Coordinador/a BIM y técnico/a de proyectos de trazado con Civil | Murcia, ES | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157745389?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Hidrogeología | Murcia, ES | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157741519?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Proyectos y Mantenimiento SCADA | Alacant, ES | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157741378?s=gh-spain-jobs-2027) |
 | **Philips** | Supply Chain Demand Support Intern | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593489?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Madrid Business Support Madr | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1415325333?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | ZARAGOZA Técnicoa PRL Zara | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1449440033?s=gh-spain-jobs-2027) |
@@ -192,7 +192,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HP Inc** | Employee Experience Program Support Intern | Sant Cugat del Valles | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3951?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Técnico/a de Instalaciones - Sistemas de Seguridad II | Las Rozas-Madrid-Spain, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30279018?s=gh-spain-jobs-2027) |
 | **Honeywell** | Intern/Becario - Technical Support Specialist | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159016?s=gh-spain-jobs-2027) |
-| **Eurofins** | Técnico junior de laboratorio - Desarrollo Analítico | Esplugues de Llobregat, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000156505765?s=gh-spain-jobs-2027) |
+| **Eurofins** | Técnico junior de laboratorio - Desarrollo Analítico | Esplugues de Llobregat, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000156505765?s=gh-spain-jobs-2027) |
 | **Johnson & Johnson** | Business Support Internship | Madrid | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-105911?s=gh-spain-jobs-2027) |
 | **Air Liquide** | Técnico de RRHH | Spain | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10103451?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Técnico/a Puesta en Marcha - IREF Refrigeración | Sant Boi-Barcelona-Spain, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30282998?s=gh-spain-jobs-2027) |
@@ -228,12 +228,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **ABB** | Robotics Associate Project Manager | Sant Quirze del Valles | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048671?s=gh-spain-jobs-2027) |
-| **GE Vernova** | EHS & Site Documents Tracking Controller - APPRENTICE | Madrid, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5054380?s=gh-spain-jobs-2027) |
-| **AIG** | Broker Service Desk Officer (French speaker) | Madrid, ES | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2602906?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Jefe/a de Obra de Instalaciones Electromecánicas | Burgos, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157747179?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Jefe/a de Obra de Instalaciones Electromecánicas | Valladolid, ES | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157742731?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Trazadista Civil 3D | Barcelona, ES | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157746099?s=gh-spain-jobs-2027) |
+| **ABB** | Robotics Associate Project Manager | Sant Quirze del Valles | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048671?s=gh-spain-jobs-2027) |
+| **GE Vernova** | EHS & Site Documents Tracking Controller - APPRENTICE | Madrid, ES | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5054380?s=gh-spain-jobs-2027) |
+| **AIG** | Broker Service Desk Officer (French speaker) | Madrid, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2602906?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Jefe/a de Obra de Instalaciones Electromecánicas | Burgos, ES | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157747179?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Jefe/a de Obra de Instalaciones Electromecánicas | Valladolid, ES | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157742731?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Trazadista Civil 3D | Barcelona, ES | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157746099?s=gh-spain-jobs-2027) |
 | **Sanofi** | Digital Product Owner - Salesforce - Order to Cash | Barcelona | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-40300186560?s=gh-spain-jobs-2027) |
 | **HP Inc** | Advanced Computing Solutions Inside Sales Consultant Spain | Sant Cugat del Valles | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-JET0011?s=gh-spain-jobs-2027) |
 | **Red Bull** | CATEGORY MANAGER RETAIL & INSIGHTS MANAGER ( INTERIM) | Madrid, ES | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000157681709?s=gh-spain-jobs-2027) |
