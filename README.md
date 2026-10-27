@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Stripe** | Backend Engineer, UI Platform | Barcelona | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8212319?s=gh-spain-jobs-2027) |
+| **Stripe** | Backend Engineer, UI Platform | Barcelona | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8212319?s=gh-spain-jobs-2027) |
 | **Thales** | Security Officer | Madrid Tres Cantos, ES | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0346025?s=gh-spain-jobs-2027) |
 | **Thales** | Cybersecurity Sales & Account Manager | Barcelona Passeig Gracia, ES | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0340933?s=gh-spain-jobs-2027) |
 | **TD Synnex** | Google Cloud Product Manager – Distribution & API Integrations | Barcelona Spain, ES +4 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53316?s=gh-spain-jobs-2027) |
@@ -172,9 +172,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Bureau Veritas** | Oviedo Técnicoa de Campo Astu | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1451365933?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | MALAGA Técnicoa de Proyecto Mála | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1451369133?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a Electricista - Asistencia Técnica (SAT) | Tenerife, ES | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157846739?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a Electricista - Asistencia Técnica (SAT) | Tenerife, ES | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157846739?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Analista técnico/a Banca | Madrid, ES | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000157804890?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a Controller Financiero/a - Junior | Madrid, ES | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157799369?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a Controller Financiero/a - Junior | Madrid, ES | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157799369?s=gh-spain-jobs-2027) |
 | **Carrier Global** | Material Planner / Supply Chain Specialist (Baja Maternidad) | n, CO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30221289?s=gh-spain-jobs-2027) |
 | **Envista Holdings** | Technical support Specialist | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-envista-envistacareers-R5027708?s=gh-spain-jobs-2027) |
 | **Novanta** | Técnico Electrónico / Electronic Technician | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009603?s=gh-spain-jobs-2027) |
@@ -232,8 +232,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | Evento Women Talent Strategy&   Madrid   17 de noviembre 2026 | Madrid - Paseo de la Castellana... | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-769436WD?s=gh-spain-jobs-2027) |
-| **Avis Budget Group** | Business Analyst | Barcelona Contact Centre, ES | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0191331?s=gh-spain-jobs-2027) |
+| **PricewaterhouseCoopers** | Evento Women Talent Strategy&   Madrid   17 de noviembre 2026 | Madrid - Paseo de la Castellana... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-769436WD?s=gh-spain-jobs-2027) |
+| **Avis Budget Group** | Business Analyst | Barcelona Contact Centre, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0191331?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Zaragoza Construction Manager CSA Zara | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1451538933?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Madrid Prácticas RRHH Madr | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1451585733?s=gh-spain-jobs-2027) |
 | **Thales** | Real Estate Intern (Hybrid) | Madrid, ES | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0336006?s=gh-spain-jobs-2027) |
