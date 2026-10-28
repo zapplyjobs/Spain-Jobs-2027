@@ -119,7 +119,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Agilent Technologies** | Analytics Business Operations Intern | Spain-Remote Location-Barcelona | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4040010?s=gh-spain-jobs-2027) |
+| **Agilent Technologies** | Analytics Business Operations Intern | Spain-Remote Location-Barcelona | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4040010?s=gh-spain-jobs-2027) |
 | **Visa** | Consulting & Analytics Summer Intern | ES - Madrid | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089917W?s=gh-spain-jobs-2027) |
 | **HP Inc** | Project Management & Business Analytics Intern | Sant Cugat del Valles | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4153?s=gh-spain-jobs-2027) |
 | **Trimble** | Data Product Engineer, Data & Analytics | Spain, ES +1 more | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R58016?s=gh-spain-jobs-2027) |
@@ -175,8 +175,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Johnson Controls** | Technical Support Engineer - IREF | Sant Boi-Barcelona-Spain, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30283568?s=gh-spain-jobs-2027) |
-| **Abbott** | Auxiliar de Producción - Abbott Supply Chain - Granada | Spain - Granada, ES | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165145?s=gh-spain-jobs-2027) |
+| **Johnson Controls** | Technical Support Engineer - IREF | Sant Boi-Barcelona-Spain, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30283568?s=gh-spain-jobs-2027) |
+| **Abbott** | Auxiliar de Producción - Abbott Supply Chain - Granada | Spain - Granada, ES | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165145?s=gh-spain-jobs-2027) |
 | **ABB** | Traction Field Service Technician | Paterna | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00051062?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento Polivalente (Fontanería, Calderas, Clima y Electricidad | León, ES | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158095969?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Producción de Agua | Barcelona, ES | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158088360?s=gh-spain-jobs-2027) |
@@ -240,8 +240,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Johnson & Johnson** | Clinical Specialist, Cataluña y Baleares | Barcelona | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099485?s=gh-spain-jobs-2027) |
-| **Palo Alto Networks** | Channel Cortex Domain Consultant Southern Europe | Madrid Spain, ES +1 more | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-023635?s=gh-spain-jobs-2027) |
+| **Johnson & Johnson** | Clinical Specialist, Cataluña y Baleares | Barcelona | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099485?s=gh-spain-jobs-2027) |
+| **Palo Alto Networks** | Channel Cortex Domain Consultant Southern Europe | Madrid Spain, ES +1 more | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-paloaltonetworks-panwexternalcareers-JR-023635?s=gh-spain-jobs-2027) |
 | **TD Synnex** | Project & Business Process Coordinator | Barcelona Spain, ES +1 more | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56025?s=gh-spain-jobs-2027) |
 | **TD Synnex** | Procurement Specialist, Print & Supplies, ES Central Procurement | Barcelona | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R57514?s=gh-spain-jobs-2027) |
 | **Adobe** | Customer Solutions Account Executive - Professional Services Adobe Madrid | Madrid, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R168756?s=gh-spain-jobs-2027) |
@@ -260,7 +260,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sopra Steria** | Analista Orgánico/a Cobol | Madrid, ES | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000158084229?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Business Analyst junior con Francés | Sevilla, ES | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000158036279?s=gh-spain-jobs-2027) |
 | **Sanofi** | Product Manager | Barcelona | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-46386655360?s=gh-spain-jobs-2027) |
-| **Sopra Steria** | Consultor/a de Gobierno del Dato | Barcelona, ES | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000158012050?s=gh-spain-jobs-2027) |
+| **Sopra Steria** | Consultor/a de Gobierno del Dato | Barcelona, ES | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000158012050?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Zaragoza Construction Manager CSA Zara | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1451538933?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Madrid Prácticas RRHH Madr | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1451585733?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Administrativo/a del Departamento de Averías | Badalona, ES | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157993210?s=gh-spain-jobs-2027) |
