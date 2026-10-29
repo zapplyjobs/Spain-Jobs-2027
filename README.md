@@ -182,8 +182,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Bureau Veritas** | MALAGA Técnicoa Obra en curso Mála | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1452473933?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a de Obra | L'Hospitalet de Llobregat, ES | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158480646?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a de Mantenimiento y Toma de Muestras | Mallorca, ES | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158359069?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Obra | L'Hospitalet de Llobregat, ES | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158480646?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Mantenimiento y Toma de Muestras | Mallorca, ES | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158359069?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico Administrativo/a (H/M) – Barcelona | Barcelona, ES | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158346764?s=gh-spain-jobs-2027) |
 | **Celonis** | Strategy & Operations Graduated Internship (12 months) | Madrid | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8046331003?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | ZARAGOZA Técnicoa Prevención Riesgos Laborales Zara | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1452091133?s=gh-spain-jobs-2027) |
@@ -244,13 +244,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Deutsche Bank** | Investment Banking & Capital Markets/FIG Professional Practice Programme (f/m/x) | Madrid Paseo Castellana 18, ES | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0455612?s=gh-spain-jobs-2027) |
-| **Deutsche Bank** | Investment Banking & Capital Markets/Advisory Professional Practice Programme (f/m/x) | Madrid Paseo Castellana 18, ES | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0455608?s=gh-spain-jobs-2027) |
-| **CrowdStrike** | Corporate Account Executive | Spain - Barcelona, ES | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30707?s=gh-spain-jobs-2027) |
-| **Johnson & Johnson** | Account Representative, Endomech/Energy, Madrid (Contrato Temporal) | Madrid | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-107110?s=gh-spain-jobs-2027) |
-| **Salesforce** | D360 Forward Deployed Engineer | Spain - Madrid, ES | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR361110?s=gh-spain-jobs-2027) |
-| **Air Liquide** | Web Content Editor - Internship | Spain | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10103953?s=gh-spain-jobs-2027) |
-| **Sopra Steria** | Agente de CAU | Bilbao, ES | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000158475083?s=gh-spain-jobs-2027) |
+| **Deutsche Bank** | Investment Banking & Capital Markets/FIG Professional Practice Programme (f/m/x) | Madrid Paseo Castellana 18, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0455612?s=gh-spain-jobs-2027) |
+| **Deutsche Bank** | Investment Banking & Capital Markets/Advisory Professional Practice Programme (f/m/x) | Madrid Paseo Castellana 18, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0455608?s=gh-spain-jobs-2027) |
+| **CrowdStrike** | Corporate Account Executive | Spain - Barcelona, ES | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30707?s=gh-spain-jobs-2027) |
+| **Johnson & Johnson** | Account Representative, Endomech/Energy, Madrid (Contrato Temporal) | Madrid | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-107110?s=gh-spain-jobs-2027) |
+| **Salesforce** | D360 Forward Deployed Engineer | Spain - Madrid, ES | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR361110?s=gh-spain-jobs-2027) |
+| **Air Liquide** | Web Content Editor - Internship | Spain | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10103953?s=gh-spain-jobs-2027) |
+| **Sopra Steria** | Agente de CAU | Bilbao, ES | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000158475083?s=gh-spain-jobs-2027) |
 | **Santander** | Key Account Manager (Openbank) | Boadilla del Monte, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1630174?s=gh-spain-jobs-2027) |
 | **Salesforce** | Enterprise Corporate Sales Account Executive - Spanish Speaker | Spain - Madrid, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR352792?s=gh-spain-jobs-2027) |
 | **Baker Hughes** | Campaigns Demand Generation Experienced Professional | ES OTHER SPAIN, ES +3 more | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R167851?s=gh-spain-jobs-2027) |
