@@ -200,7 +200,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hitachi** | Ingeniero/a – Técnico/a de Mantenimiento | Cordoba | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0150511?s=gh-spain-jobs-2027) |
 | **Hitachi** | Ingeniero/a - Técnico/a de Mantenimiento | Málaga | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0150510?s=gh-spain-jobs-2027) |
 | **Honeywell** | Aprendiz - Junior Field Service Technician | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-160922?s=gh-spain-jobs-2027) |
-| **Celonis** | Strategy & Operations Graduated Internship (12 months) | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8046331003?s=gh-spain-jobs-2027) |
+| **Celonis** | Strategy & Operations Graduated Internship (12 months) | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8046331003?s=gh-spain-jobs-2027) |
 | **HP Inc** | Data Analysis Intern - Supply Chain | Sant Cugat del Valles | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4159?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Technical Support Engineer - IREF | Sant Boi-Barcelona-Spain, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30283568?s=gh-spain-jobs-2027) |
 | **ABB** | Traction Field Service Technician | Paterna | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00051062?s=gh-spain-jobs-2027) |
@@ -252,7 +252,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Salesforce** | Deployment Strategist - Spanish Speaker | Spain Madrid, ES +1 more | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR366417?s=gh-spain-jobs-2027) |
+| **Salesforce** | Deployment Strategist - Spanish Speaker | Spain Madrid, ES +1 more | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR366417?s=gh-spain-jobs-2027) |
 | **Cisco** | Account Executive - Portfolio - Enterprise - Spain | Madrid Spain, ES +1 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028267?s=gh-spain-jobs-2027) |
 | **HP Inc** | Commercial Inside Account Executive – Spanish Speaking | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168603?s=gh-spain-jobs-2027) |
 | **AST SpaceMobile** | Radiation Assurance Engineer | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astspacemobile-4749369005?s=gh-spain-jobs-2027) |
@@ -306,7 +306,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertiv** | Commissioning HVAC Engineer - Spain/EMEA Travel | Spain | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20281337?s=gh-spain-jobs-2027) |
 | **Honeywell** | Ingeniero/a de Ofertas Técnicas (Tendering Engineer) m/f/d | Illescas | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-156825?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnica/o de mantenimiento frigorista Ourense | Ourense, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158327142?s=gh-spain-jobs-2027) |
-| **Veeva Systems** | Associate Manager - Corporate Events Europe | Spain - Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-5286631d-7305-40d7-93cd-5eb296b36730?s=gh-spain-jobs-2027) |
+| **Veeva Systems** | Associate Manager - Corporate Events Europe | Spain - Barcelona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-5286631d-7305-40d7-93cd-5eb296b36730?s=gh-spain-jobs-2027) |
 | **Wolters Kluwer** | Bid & Proposal Specialist | ESP Madrid Castellana, ES +1 more | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060593?s=gh-spain-jobs-2027) |
 | **Wolters Kluwer** | Sales Enablement Manager | ESP Madrid Castellana, ES +1 more | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060636?s=gh-spain-jobs-2027) |
 | **HPE** | Digital Sales Representative - Hunter, Flemish Speaking | Barcelona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1215713?s=gh-spain-jobs-2027) |
