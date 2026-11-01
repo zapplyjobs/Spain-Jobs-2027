@@ -184,8 +184,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Workiva** | Customer Success Manager-Spanish Speaking | Madrid, ES +1 more | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-workiva-careers-R12728?s=gh-spain-jobs-2027) |
 | **Envista Holdings** | Digital Technical Support Engineer | Spain | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-envista-envistacareers-R5027738?s=gh-spain-jobs-2027) |
+| **Workiva** | Customer Success Manager-Spanish Speaking | Madrid, ES +1 more | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-workiva-careers-R12728?s=gh-spain-jobs-2027) |
 | **HP Inc** | 3DaaS Program Manager – Business Operations and Process Management | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3170051?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico Administrativo/a (H/M) Temporal – Barcelona | Barcelona, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158706769?s=gh-spain-jobs-2027) |
 | **Hitachi** | Operations HSE Specialist (F/M/D) | Madrid Spain, ES +4 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0136450?s=gh-spain-jobs-2027) |
