@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AstraZeneca** | CloudOps Engineer - Evinova | Spain - Barcelona, ES | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-262129?s=gh-spain-jobs-2027) |
-| **Novanta** | Fullstack Developer | Barcelona | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009634?s=gh-spain-jobs-2027) |
-| **Novanta** | Software Engineer | Barcelona | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009601?s=gh-spain-jobs-2027) |
+| **AstraZeneca** | CloudOps Engineer - Evinova | Spain - Barcelona, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-262129?s=gh-spain-jobs-2027) |
+| **Novanta** | Fullstack Developer | Barcelona | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009634?s=gh-spain-jobs-2027) |
+| **Novanta** | Software Engineer | Barcelona | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009601?s=gh-spain-jobs-2027) |
 | **Fortinet** | Systems Engineer - Territory Center, Spain | Madrid | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-24850?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Cloud Engineer PaaS - CaaS | Madrid, ES | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000159415800?s=gh-spain-jobs-2027) |
 | **Microsoft** | Partner Solution Sales SMB Cloud & AI | Madrid | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062107?s=gh-spain-jobs-2027) |
@@ -244,13 +244,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **KION Group** | SAP Inhouse Consultant (PP) (m/f/d) | Pallej Barcelona Spain, ES +4 more | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0090157?s=gh-spain-jobs-2027) |
-| **HP Inc** | Inside SW Tech Advisor with Italian language | Sant Cugat del Valles | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3166532?s=gh-spain-jobs-2027) |
-| **Danaher** | Field Scientist - MSAT (d/f/m) | Madrid Spain, ES +1 more | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1321430?s=gh-spain-jobs-2027) |
-| **Salesforce** | Events Specialist | Spain - Barcelona, ES | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR365935?s=gh-spain-jobs-2027) |
-| **Mastercard** | Consultant, Marketing Services | Madrid | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-290095?s=gh-spain-jobs-2027) |
-| **TD Synnex** | Software Purchasing Specialist | Barcelona | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R57743?s=gh-spain-jobs-2027) |
-| **Cigna** | Provider Claims Representative - Cigna Healthcare | Madrid | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013119?s=gh-spain-jobs-2027) |
+| **KION Group** | SAP Inhouse Consultant (PP) (m/f/d) | Pallej Barcelona Spain, ES +4 more | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0090157?s=gh-spain-jobs-2027) |
+| **HP Inc** | Inside SW Tech Advisor with Italian language | Sant Cugat del Valles | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3166532?s=gh-spain-jobs-2027) |
+| **Danaher** | Field Scientist - MSAT (d/f/m) | Madrid Spain, ES +1 more | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1321430?s=gh-spain-jobs-2027) |
+| **Salesforce** | Events Specialist | Spain - Barcelona, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR365935?s=gh-spain-jobs-2027) |
+| **Mastercard** | Consultant, Marketing Services | Madrid | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-290095?s=gh-spain-jobs-2027) |
+| **TD Synnex** | Software Purchasing Specialist | Barcelona | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R57743?s=gh-spain-jobs-2027) |
+| **Cigna** | Provider Claims Representative - Cigna Healthcare | Madrid | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013119?s=gh-spain-jobs-2027) |
 | **Deutsche Bank** | Investment Banking & Capital Markets/FIG Professional Practice Programme (f/m/x) | Madrid Paseo Castellana 18, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0455612?s=gh-spain-jobs-2027) |
 | **Deutsche Bank** | Investment Banking & Capital Markets/Advisory Professional Practice Programme (f/m/x) | Madrid Paseo Castellana 18, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0455608?s=gh-spain-jobs-2027) |
 | **Arrow Electronics** | Application Engineer | ES-Alcobendas | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R248200?s=gh-spain-jobs-2027) |
