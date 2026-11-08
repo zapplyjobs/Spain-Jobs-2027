@@ -189,9 +189,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **ABB** | Internship: Commercial Support for MOHP Drives | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052921?s=gh-spain-jobs-2027) |
 | **ExtraHop** | Customer Success Manager I   Spain | Not specified | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-extrahopnetworks-6251522004?s=gh-spain-jobs-2027) |
+| **Stryker** | Product Support Specialist JR - Galicia | Vigo | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R576701?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento SAT Electricista y Climatización 24/7 | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000160254689?s=gh-spain-jobs-2027) |
 | **Hudl** | Customer Success Manager II (Temporary Contract) | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-hudl-8284043?s=gh-spain-jobs-2027) |
-| **Stryker** | Product Support Specialist JR - Galicia | Vigo | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R576701?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento Frigorista en salas CPD | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000160177050?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento Polivalente (clima y electricidad) | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000160176694?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Oviedo Técnicoa de Proyecto Astu | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1455191133?s=gh-spain-jobs-2027) |
@@ -345,10 +345,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Merck & Co.** | Assoc Dir, Global Trial Manager | ESP - Madrid - Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R423950?s=gh-spain-jobs-2027) |
 | **ABB** | HSE Specialist | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00049248?s=gh-spain-jobs-2027) |
 | **Fortinet** | Named Account Manager - SecOps Specialist - Spain | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-24877?s=gh-spain-jobs-2027) |
+| **Thermo Fisher Scientific** | Technical Application Scientist, Chemistry | Alcobendas | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01372911?s=gh-spain-jobs-2027) |
+| **Thermo Fisher Scientific** | ThermoFisher Scientific Inside Sales Team Member - Spain/Portugal | Alcobendas Spain, ES +1 more | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01372386?s=gh-spain-jobs-2027) |
 | **Air Liquide** | GESTOR/A TERAPIAS ATENCION CONTINUADA | Spain | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10103074?s=gh-spain-jobs-2027) |
 | **Air Liquide** | ENFERMERO/A C4C | Spain | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10104053?s=gh-spain-jobs-2027) |
-| **Cigna** | HR Compliance Analyst - Cigna Healthcare | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009950?s=gh-spain-jobs-2027) |
-| **Cigna** | Inspector/a Hospitalario/a - Cigna Healthcare | ESP Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013495?s=gh-spain-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
