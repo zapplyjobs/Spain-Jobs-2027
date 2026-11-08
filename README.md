@@ -251,7 +251,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Johnson & Johnson** | Scientist, Precision Biomarkers & MultiOmics Integration | Madrid Spain, ES +1 more | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-109330?s=gh-spain-jobs-2027) |
+| **Johnson & Johnson** | Scientist, Precision Biomarkers & MultiOmics Integration | Madrid Spain, ES +1 more | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-109330?s=gh-spain-jobs-2027) |
+| **AIG** | Multinational Client Coordinator, Spain | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2604427?s=gh-spain-jobs-2027) |
+| **Unisys** | Jr. QA Automation Engineer | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576446?s=gh-spain-jobs-2027) |
+| **TD Synnex** | Internal Sales Specialist Factorial | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53770?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Sales Manager – Data Centers: Fire Protection | Las Rozas-Madrid-Spain, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30278927?s=gh-spain-jobs-2027) |
 | **Fresenius Medical Care** | Auxiliar de Enfermería (Bilbao) | Bilbao | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276838?s=gh-spain-jobs-2027) |
 | **AstraZeneca** | Business Account Specliast - Andalucía Oriental | Spain - Field-Other | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263685?s=gh-spain-jobs-2027) |
@@ -262,9 +265,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Santander** | CONTROLLING COORDINATION ANALYST | Boadilla del Monte, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1632301?s=gh-spain-jobs-2027) |
 | **Santander** | Business Oversight Analysis & Control Analyst | Boadilla del Monte, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1632518?s=gh-spain-jobs-2027) |
 | **Santander** | Control Risk Analyst | Boadilla del Monte, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1632303?s=gh-spain-jobs-2027) |
-| **AIG** | Multinational Client Coordinator, Spain | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2604427?s=gh-spain-jobs-2027) |
-| **TD Synnex** | Internal Sales Specialist Factorial | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53770?s=gh-spain-jobs-2027) |
-| **Unisys** | Jr. QA Automation Engineer | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576446?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Delineante Asturias | Asturias, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000160300629?s=gh-spain-jobs-2027) |
 | **Mastercard** | Sales Manager, Western Europe | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-294459?s=gh-spain-jobs-2027) |
 | **Merck & Co.** | Analista de Control de Calidad | ESP - Salamanca - Salamanca, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R425325?s=gh-spain-jobs-2027) |
@@ -344,13 +344,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Technology Consultant: Graduate Opportunities - French, German or Spanish speaking | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200065484?s=gh-spain-jobs-2027) |
 | **Deutsche Bank** | Investment Banking & Capital Markets/FIG Professional Practice Programme (f/m/x) | Madrid Paseo Castellana 18, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0455612?s=gh-spain-jobs-2027) |
 | **Merck & Co.** | Assoc Dir, Global Trial Manager | ESP - Madrid - Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R423950?s=gh-spain-jobs-2027) |
+| **AIG** | Auto Claims Adjuster - Temporary | Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2604257?s=gh-spain-jobs-2027) |
+| **Danaher** | Order Management Specialist (Swedish) | Barcelona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1322274?s=gh-spain-jobs-2027) |
 | **Teledyne** | Production Technician | Spain- Sevilla, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ37710?s=gh-spain-jobs-2027) |
 | **Teledyne** | Production Technician | Spain- Sevilla, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ37668?s=gh-spain-jobs-2027) |
 | **Teledyne** | Production technician | Spain- Sevilla, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-flir-flircareers-REQ37670?s=gh-spain-jobs-2027) |
 | **AstraZeneca** | Personal Assistant and Administrator | Spain - Barcelona, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263303?s=gh-spain-jobs-2027) |
 | **Fortinet** | Named Account Manager - SecOps Specialist - Spain | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-24877?s=gh-spain-jobs-2027) |
-| **Cigna** | HR Compliance Analyst - Cigna Healthcare | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009950?s=gh-spain-jobs-2027) |
-| **Cigna** | Inspector/a Hospitalario/a - Cigna Healthcare | ESP Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013495?s=gh-spain-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
