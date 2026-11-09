@@ -16,7 +16,7 @@
 <p align="center">🚀 Jobs across Spain in tech, finance, healthcare, and more. Postings are shown in their original language, refreshed daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spain%20Jobs-678-3FB950?style=flat&logo=briefcase" height="30" alt="Spain Jobs">
+  <img src="https://img.shields.io/badge/Spain%20Jobs-676-3FB950?style=flat&logo=briefcase" height="30" alt="Spain Jobs">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-99-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
   <img src="https://img.shields.io/badge/Companies-111-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -249,9 +249,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Johnson & Johnson** | Ultrasound Clinical Specialist- EMEA | Madrid | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-109747?s=gh-spain-jobs-2027) |
-| **Hitachi** | International Sales Manager | Madrid | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0149548?s=gh-spain-jobs-2027) |
-| **Iberdrola** | 🎓🔋⚡Programa Prácticas Alumni 2027 | Spain Madrid, ES +11 more | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-35158?s=gh-spain-jobs-2027) |
+| **Johnson & Johnson** | Ultrasound Clinical Specialist- EMEA | Madrid | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-109747?s=gh-spain-jobs-2027) |
+| **Hitachi** | International Sales Manager | Madrid | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0149548?s=gh-spain-jobs-2027) |
+| **Iberdrola** | 🎓🔋⚡Programa Prácticas Alumni 2027 | Spain Madrid, ES +11 more | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-35158?s=gh-spain-jobs-2027) |
 | **GE Vernova** | Web UI/UX Development Engineer | Zamudio, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5058348?s=gh-spain-jobs-2027) |
 | **Johnson & Johnson** | Scientist, Precision Biomarkers & MultiOmics Integration | Madrid Spain, ES +1 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-109330?s=gh-spain-jobs-2027) |
 | **Unisys** | Jr. QA Automation Engineer | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ576446?s=gh-spain-jobs-2027) |
@@ -290,10 +290,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HPE** | Digital Sales Enablement Manager, Northern Western Europe | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1215244?s=gh-spain-jobs-2027) |
 | **ABB** | Sales Specialist - Force Measurement | Madrid Madrid Spain, ES +2 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047560?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Client Services Coordinator 2 | Las Rozas-Madrid-Spain, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30284612?s=gh-spain-jobs-2027) |
+| **Hilton** | Accounts Receivable | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-230419?s=gh-spain-jobs-2027) |
 | **Honeywell** | Ingeniero/a de Ofertas Técnicas (Tendering Engineer) m/f/d | Illescas | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-156825?s=gh-spain-jobs-2027) |
 | **Honeywell** | Technical Solutions Consultant - Process Automation - BESS and POWER m/f/d/ | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159654?s=gh-spain-jobs-2027) |
 | **BNY** | Specialist, Client Coverage | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-bny-77739?s=gh-spain-jobs-2027) |
-| **Hilton** | Accounts Receivable | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-230419?s=gh-spain-jobs-2027) |
 | **Visa** | Finance Business Partner | ES - Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF090010W?s=gh-spain-jobs-2027) |
 | **Celonis** | Intern CCO Enablement & Programs | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8078124003?s=gh-spain-jobs-2027) |
 | **AbbVie** | Associate Brand Manager Parkinson | Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016651456?s=gh-spain-jobs-2027) |
@@ -334,10 +334,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Mastercard** | Consultant, Marketing Services | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-290095?s=gh-spain-jobs-2027) |
 | **Microsoft** | Technology Consultant: Graduate Opportunities - French, German or Spanish speaking | Barcelona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200065484?s=gh-spain-jobs-2027) |
 | **Merck & Co.** | Assoc Dir, Global Trial Manager | ESP - Madrid - Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R423950?s=gh-spain-jobs-2027) |
+| **Cigna** | Provider Claims Representative - Cigna Healthcare | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013119?s=gh-spain-jobs-2027) |
 | **Fresenius Medical Care** | Fisioterapeuta (Cádiz) | Sanlúcar de B. | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276644?s=gh-spain-jobs-2027) |
 | **Fresenius Medical Care** | Trabajador/a Social (Cádiz) | Sanlúcar de B. | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0276646?s=gh-spain-jobs-2027) |
 | **Trimble** | Business Development Representative, French speaker | Spain, ES +3 more | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R54476?s=gh-spain-jobs-2027) |
-| **Cigna** | Provider Claims Representative - Cigna Healthcare | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013119?s=gh-spain-jobs-2027) |
 | **Carrier Global** | Mecánico Frigorista HVAC | ESP3294: C. Automocion, SE | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30210991?s=gh-spain-jobs-2027) |
 | **Deutsche Bank** | Investment Banking & Capital Markets/FIG Professional Practice Programme (f/m/x) | Madrid Paseo Castellana 18, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0455612?s=gh-spain-jobs-2027) |
 | **Arrow Electronics** | Application Engineer | ES-Alcobendas | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R248200?s=gh-spain-jobs-2027) |
@@ -435,7 +435,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 678 current opportunities from 111 companies**
+**🎯 676 current opportunities from 111 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
