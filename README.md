@@ -16,7 +16,7 @@
 <p align="center">🚀 Jobs across Spain in tech, finance, healthcare, and more. Postings are shown in their original language, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spain%20Jobs-736-3FB950?style=flat&logo=briefcase" height="30" alt="Spain Jobs">
+  <img src="https://img.shields.io/badge/Spain%20Jobs-735-3FB950?style=flat&logo=briefcase" height="30" alt="Spain Jobs">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-100-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
   <img src="https://img.shields.io/badge/Companies-117-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -160,7 +160,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Iberdrola** | ARQUITECTO/A IA | Spain | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-31483?s=gh-spain-jobs-2027) |
+| **Iberdrola** | ARQUITECTO/A IA | Spain | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-31483?s=gh-spain-jobs-2027) |
 | **Salesforce** | AI Builder, Emerging Talent - Arabic Market | Spain - Madrid, ES | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR359146?s=gh-spain-jobs-2027) |
 | **Salesforce** | AI Builder, Emerging Talent - Spanish Market | Spain - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360475?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Ingeniero Experto IA | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000161285259?s=gh-spain-jobs-2027) |
@@ -191,15 +191,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **KION Group** | Field Service Engineer | L'Hospitalet de Llobregat | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0084880?s=gh-spain-jobs-2027) |
-| **Iberdrola** | Auxiliar Técnico/a Subestaciones | IBERDROLA LEGANES, ES +2 more | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34184?s=gh-spain-jobs-2027) |
+| **Iberdrola** | Auxiliar Técnico/a Subestaciones | IBERDROLA LEGANES, ES +2 more | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34184?s=gh-spain-jobs-2027) |
+| **KION Group** | Field Service Engineer | L'Hospitalet de Llobregat | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0084880?s=gh-spain-jobs-2027) |
 | **ABB** | Field Service Technician | Zaragoza | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00040670?s=gh-spain-jobs-2027) |
 | **Eurofins** | Técnico de laboratorio – Industria farmacéutica | Madrid, ES | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161513534?s=gh-spain-jobs-2027) |
 | **ABB** | HSE Hydro Site Support | Trapagaran | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052809?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Proyectos – Limnólogo/a. | Madrid, ES | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161457764?s=gh-spain-jobs-2027) |
-| **Eurofins** | Técnico junior de laboratorio - Desarrollo Analítico | Esplugues de Llobregat, ES | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161435283?s=gh-spain-jobs-2027) |
-| **HPE** | Data Services Business Support - Part Time Internship | Las Rozas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1217184?s=gh-spain-jobs-2027) |
+| **Eurofins** | Técnico junior de laboratorio - Desarrollo Analítico | Esplugues de Llobregat, ES | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161435283?s=gh-spain-jobs-2027) |
 | **Iberdrola** | TECNICO/A  DE COORDINACIÓN DE RED DIGITAL | Spain Madrid, ES +1 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34307?s=gh-spain-jobs-2027) |
+| **HPE** | Data Services Business Support - Part Time Internship | Las Rozas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1217184?s=gh-spain-jobs-2027) |
 | **HPE (University)** | Data Services Business Support - Part Time Internship | Las Rozas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1217184?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento - Electricidad | Málaga, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161337480?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Ingeniero/a Junior Soporte Operaciones (Temporal) | Girona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161304262?s=gh-spain-jobs-2027) |
@@ -207,12 +207,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Novanta** | IT Support Specialist | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009832?s=gh-spain-jobs-2027) |
 | **HPE** | HPE Commercial Support - Part time Internship | Las Rozas | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1217183?s=gh-spain-jobs-2027) |
 | **HPE (University)** | HPE Commercial Support - Part time Internship | Las Rozas | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1217183?s=gh-spain-jobs-2027) |
+| **Iberdrola** | Técnico/a Construcción Líneas Alta Tensión | Spain Madrid, ES +3 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34015?s=gh-spain-jobs-2027) |
 | **AIG** | Team Lead, Underwriting Support | Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2603564?s=gh-spain-jobs-2027) |
 | **Medtronic** | Field Service Engineer | Vigo Galicia Spain, ES +1 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R81392?s=gh-spain-jobs-2027) |
 | **Stanley Black & Decker** | Técnico/a Comercial FACOM Andalucía | Bergueda | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053817?s=gh-spain-jobs-2027) |
 | **GE Vernova** | Technical Support Specialist | Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5057954?s=gh-spain-jobs-2027) |
 | **AstraZeneca** | Business Support Coordinator - Clinical Project Teams Administrative Support | Spain - Barcelona, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263929?s=gh-spain-jobs-2027) |
-| **Iberdrola** | Técnico/a Construcción Líneas Alta Tensión | Spain Madrid, ES +3 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34015?s=gh-spain-jobs-2027) |
 | **Salesforce** | Account Executive - Agentforce Operations | Spain - Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363120?s=gh-spain-jobs-2027) |
 | **Hitachi** | Field Service Technician | Madrid Spain, ES +1 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0117254?s=gh-spain-jobs-2027) |
 | **Stryker** | Product Support Specialist JR - Galicia | Vigo | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R576701?s=gh-spain-jobs-2027) |
@@ -262,15 +262,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Analog Devices** | Analog/Mixed Signal Engineering Intern | Spain | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267042?s=gh-spain-jobs-2027) |
-| **Analog Devices** | Product Applications Intern | Spain | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267038?s=gh-spain-jobs-2027) |
-| **Analog Devices** | Software Quality Assurance (SQA) Intern | Spain | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267320?s=gh-spain-jobs-2027) |
-| **Dow Jones** | Health, Safety & Wellbeing Technician | Spain - Barcelona, ES | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55807?s=gh-spain-jobs-2027) |
-| **Pfizer** | Costing Process Manager, Standardization & Digital Enablement (Temporary 6 months)(30h/w) | Spain - Madrid | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4967952?s=gh-spain-jobs-2027) |
-| **HP Inc** | Commercial Inside Account Executive  - Catalan / Spanish Speaking | Sant Cugat del Valles | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-IST0071?s=gh-spain-jobs-2027) |
-| **HP Inc** | Medium Business Inside Sales Manager  - German Speaking | Sant Cugat del Valles | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168608?s=gh-spain-jobs-2027) |
-| **Carrier Global** | Project Manager Data Centers | ESP1901: Avda. Real de Pinto | 46m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30214208?s=gh-spain-jobs-2027) |
-| **Carrier Global** | Project Manager Modernizaciones HVAC | Palma De Mallorca | 46m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30216908?s=gh-spain-jobs-2027) |
+| **HP Inc** | Commercial Inside Account Executive  - Catalan / Spanish Speaking | Sant Cugat del Valles | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-IST0071?s=gh-spain-jobs-2027) |
+| **HP Inc** | Medium Business Inside Sales Manager  - German Speaking | Sant Cugat del Valles | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168608?s=gh-spain-jobs-2027) |
+| **Analog Devices** | Analog/Mixed Signal Engineering Intern | Spain | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267042?s=gh-spain-jobs-2027) |
+| **Analog Devices** | Product Applications Intern | Spain | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267038?s=gh-spain-jobs-2027) |
+| **Analog Devices** | Software Quality Assurance (SQA) Intern | Spain | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267320?s=gh-spain-jobs-2027) |
+| **Dow Jones** | Health, Safety & Wellbeing Technician | Spain - Barcelona, ES | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55807?s=gh-spain-jobs-2027) |
+| **Pfizer** | Costing Process Manager, Standardization & Digital Enablement (Temporary 6 months)(30h/w) | Spain - Madrid | 50m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4967952?s=gh-spain-jobs-2027) |
+| **Carrier Global** | Project Manager Data Centers | ESP1901: Avda. Real de Pinto | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30214208?s=gh-spain-jobs-2027) |
+| **Carrier Global** | Project Manager Modernizaciones HVAC | Palma De Mallorca | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30216908?s=gh-spain-jobs-2027) |
 | **Merck & Co.** | Method transfer specialist (Bioassays) | ESP - Salamanca - Salamanca, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R424642?s=gh-spain-jobs-2027) |
 | **Johnson & Johnson** | Transcend Manager PMO | Madrid | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-111127?s=gh-spain-jobs-2027) |
 | **Fresenius Medical Care** | Enfermera/o (Badajoz) | Badajoz | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277917?s=gh-spain-jobs-2027) |
@@ -448,7 +448,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 736 current opportunities from 117 companies**
+**🎯 735 current opportunities from 117 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
