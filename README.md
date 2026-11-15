@@ -114,7 +114,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **GE Vernova** | Converter Electrical Engineer / Ingénieur Electricien Convertisseur | Barcelona, ES +1 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5046098?s=gh-spain-jobs-2027) |
-| **Bosch Group** | Hardware Engineer | València, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000160644659?s=gh-spain-jobs-2027) |
+| **Bosch Group** | Hardware Engineer | València, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000160644659?s=gh-spain-jobs-2027) |
 | **HP Inc** | Graduate Electrical Engineer | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4620?s=gh-spain-jobs-2027) |
 | **ABB** | Internship: R&D Design role based at the Madrid headquarters within Electrification, Smart... | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052035?s=gh-spain-jobs-2027) |
 
@@ -191,7 +191,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **ABB** | HSE Hydro Site Support | Trapagaran | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052809?s=gh-spain-jobs-2027) |
 | **ABB** | Field Service Technician | Zaragoza | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00040670?s=gh-spain-jobs-2027) |
-| **Eurofins** | Técnico de laboratorio – Industria farmacéutica | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161513534?s=gh-spain-jobs-2027) |
+| **Eurofins** | Técnico de laboratorio – Industria farmacéutica | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161513534?s=gh-spain-jobs-2027) |
 | **KION Group** | Field Service Engineer | L'Hospitalet de Llobregat | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0084880?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Proyectos – Limnólogo/a. | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161457764?s=gh-spain-jobs-2027) |
 | **Iberdrola** | Auxiliar Técnico/a Subestaciones | IBERDROLA LEGANES, ES +2 more | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34184?s=gh-spain-jobs-2027) |
@@ -264,7 +264,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ABB** | HSE Specialist (Ring Motors Factory) | Trapagaran | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052807?s=gh-spain-jobs-2027) |
 | **Fresenius Medical Care** | Enfermera/o (Badajoz) | Badajoz | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277917?s=gh-spain-jobs-2027) |
 | **Veeva Systems** | Master Class - Business Consultant - Life Sciences Consulting | Spain - Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-e04083db-8370-46f8-94c6-683cb2cd8795?s=gh-spain-jobs-2027) |
-| **Eurofins** | Analista Microbiología - Productos farmacéuticos no estériles | Esplugues de Llobregat, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161515014?s=gh-spain-jobs-2027) |
+| **Eurofins** | Analista Microbiología - Productos farmacéuticos no estériles | Esplugues de Llobregat, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161515014?s=gh-spain-jobs-2027) |
 | **Johnson & Johnson** | Transcend Manager PMO | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-111127?s=gh-spain-jobs-2027) |
 | **Pfizer** | Costing Process Manager, Standardization & Digital Enablement (Temporary 6 months)(30h/w) | Spain - Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4967952?s=gh-spain-jobs-2027) |
 | **AbbVie** | Intern Financiero | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016840076?s=gh-spain-jobs-2027) |
@@ -324,7 +324,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fresenius Medical Care** | Auxiliar de Enfermería (Sanlúcar de Barrameda) | Sanlúcar de B. | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277404?s=gh-spain-jobs-2027) |
 | **Airbnb** | Sales Development Intern, Services, Spain | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-airbnb-8372424?s=gh-spain-jobs-2027) |
 | **Smiths Group** | Planner III Production | Torrejón de Ardoz, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SmithsGroup2-744000161111120?s=gh-spain-jobs-2027) |
-| **GitLab** | Strategic Account Executive - Spain | Spain | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8936156002?s=gh-spain-jobs-2027) |
+| **GitLab** | Strategic Account Executive - Spain | Spain | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8936156002?s=gh-spain-jobs-2027) |
 | **GitLab** | Strategic Account Executive - Spain | Spain | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8936142002?s=gh-spain-jobs-2027) |
 | **AstraZeneca** | Business Account Specialist - País Vasco, La Rioja, Aragón, Soria, Navarra y Burgos | Spain - Field-Other | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-257464?s=gh-spain-jobs-2027) |
 | **Johnson & Johnson** | Ultrasound Clinical Account Specialist, Cardiac Imaging & Structural Heart | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-110415?s=gh-spain-jobs-2027) |
