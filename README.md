@@ -189,7 +189,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **ABB** | HSE Hydro Site Support | Trapagaran | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052809?s=gh-spain-jobs-2027) |
+| **ABB** | HSE Hydro Site Support | Trapagaran | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052809?s=gh-spain-jobs-2027) |
 | **KION Group** | Field Service Engineer | L'Hospitalet de Llobregat | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0084880?s=gh-spain-jobs-2027) |
 | **Iberdrola** | Auxiliar Técnico/a Subestaciones | IBERDROLA LEGANES, ES +2 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-34184?s=gh-spain-jobs-2027) |
 | **ABB** | Field Service Technician | Zaragoza | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00040670?s=gh-spain-jobs-2027) |
@@ -260,7 +260,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **ABB** | HSE Specialist (Ring Motors Factory) | Trapagaran | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052807?s=gh-spain-jobs-2027) |
+| **ABB** | HSE Specialist (Ring Motors Factory) | Trapagaran | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052807?s=gh-spain-jobs-2027) |
 | **AstraZeneca** | Business Account Specliast - Barcelona, Girona, Lleida y Andorra | Spain - Field-Other | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-257474?s=gh-spain-jobs-2027) |
 | **HP Inc** | Commercial Inside Account Executive  - Catalan / Spanish Speaking | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-IST0071?s=gh-spain-jobs-2027) |
 | **HP Inc** | Medium Business Inside Sales Manager  - German Speaking | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168608?s=gh-spain-jobs-2027) |
