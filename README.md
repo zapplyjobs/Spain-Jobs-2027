@@ -189,12 +189,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **KION Group** | Field Service Engineer | Coslada | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098999?s=gh-spain-jobs-2027) |
-| **KION Group** | Field Service Engineer | Coslada | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098998?s=gh-spain-jobs-2027) |
-| **KION Group** | Field Service Engineer | Coslada | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0097050?s=gh-spain-jobs-2027) |
-| **Cigna** | Manager de Operaciones de Proveedores Médicos  - Cigna Heatlhcare | Madrid | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013966?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a de Prevención de Riesgos Laborales Junior - Lleida | Lleida, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161761767?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a de Seguridad y Salud Laboral - Lleida | Lleida, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161763969?s=gh-spain-jobs-2027) |
+| **KION Group** | Field Service Engineer | Coslada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098999?s=gh-spain-jobs-2027) |
+| **KION Group** | Field Service Engineer | Coslada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098998?s=gh-spain-jobs-2027) |
+| **KION Group** | Field Service Engineer | Coslada | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0097050?s=gh-spain-jobs-2027) |
+| **Cigna** | Manager de Operaciones de Proveedores Médicos  - Cigna Heatlhcare | Madrid | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013966?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Prevención de Riesgos Laborales Junior - Lleida | Lleida, ES | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161761767?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Seguridad y Salud Laboral - Lleida | Lleida, ES | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161763969?s=gh-spain-jobs-2027) |
 | **ABB** | HSE Hydro Site Support | Trapagaran | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052809?s=gh-spain-jobs-2027) |
 | **Eurofins** | Técnico de laboratorio – Industria farmacéutica | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000161513534?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Proyectos – Limnólogo/a. | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161457764?s=gh-spain-jobs-2027) |
@@ -262,15 +262,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **KION Group** | Technical Regional Coordinator | Pallejà | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0089071?s=gh-spain-jobs-2027) |
-| **KION Group** | Workshop Service Engineer | Pallejà | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0091523?s=gh-spain-jobs-2027) |
-| **KION Group** | Workshop Service Engineer | Pallejà | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098143?s=gh-spain-jobs-2027) |
-| **Cigna** | Provider Claims Representative - Cigna Healthcare | Madrid | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013696?s=gh-spain-jobs-2027) |
-| **Fresenius Medical Care** | Auxiliar de Enfermería (Almería) | Almería | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277786?s=gh-spain-jobs-2027) |
-| **Philips** | Modality Sales Specialist Hospital & Ambulatory Monitoring | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592722?s=gh-spain-jobs-2027) |
-| **Wolters Kluwer** | Field Sales Representative | ESP Barcelona, ES +3 more | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060975?s=gh-spain-jobs-2027) |
-| **Dow Jones** | Customer Service Associate | Spain - Barcelona, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_56124?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Ingeniero/as de Estudios Agua Industrial | Sevilla, ES | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161756161?s=gh-spain-jobs-2027) |
+| **KION Group** | Technical Regional Coordinator | Pallejà | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0089071?s=gh-spain-jobs-2027) |
+| **KION Group** | Workshop Service Engineer | Pallejà | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0091523?s=gh-spain-jobs-2027) |
+| **KION Group** | Workshop Service Engineer | Pallejà | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0098143?s=gh-spain-jobs-2027) |
+| **Cigna** | Provider Claims Representative - Cigna Healthcare | Madrid | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013696?s=gh-spain-jobs-2027) |
+| **Fresenius Medical Care** | Auxiliar de Enfermería (Almería) | Almería | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277786?s=gh-spain-jobs-2027) |
+| **Philips** | Modality Sales Specialist Hospital & Ambulatory Monitoring | Madrid, ES | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-592722?s=gh-spain-jobs-2027) |
+| **Wolters Kluwer** | Field Sales Representative | ESP Barcelona, ES +3 more | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060975?s=gh-spain-jobs-2027) |
+| **Dow Jones** | Customer Service Associate | Spain - Barcelona, ES | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_56124?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Ingeniero/as de Estudios Agua Industrial | Sevilla, ES | 51m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161756161?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Ingeniero/as de Estudios Agua Industrial | Alicante, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161744109?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Feria Merkalan BEC 18 Noviembre | San Vicente de Barakaldo, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000161744089?s=gh-spain-jobs-2027) |
 | **HP Inc** | Inside Sales – Public Sector | Las Rozas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3171107?s=gh-spain-jobs-2027) |
