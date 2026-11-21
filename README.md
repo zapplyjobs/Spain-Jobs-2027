@@ -16,7 +16,7 @@
 <p align="center">🚀 Jobs across Spain in tech, finance, healthcare, and more. Postings are shown in their original language, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spain%20Jobs-692-3FB950?style=flat&logo=briefcase" height="30" alt="Spain Jobs">
+  <img src="https://img.shields.io/badge/Spain%20Jobs-691-3FB950?style=flat&logo=briefcase" height="30" alt="Spain Jobs">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-104-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
   <img src="https://img.shields.io/badge/Companies-114-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **HPE** | Cybersecurity Sales & Business - Part time Intern | Las Rozas | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1213973?s=gh-spain-jobs-2027) |
-| **KION Group** | Software Developer | Barcelona | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0096472?s=gh-spain-jobs-2027) |
+| **KION Group** | Software Developer | Barcelona | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0096472?s=gh-spain-jobs-2027) |
 | **Trimble** | Mid-Level Java Software Engineer | Spain, ES +2 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-trimble-trimblecareers-R58469?s=gh-spain-jobs-2027) |
 | **HPE (University)** | Cybersecurity Sales & Business - Part time Intern | Las Rozas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213973?s=gh-spain-jobs-2027) |
 | **Santander** | Front End Software Engineer (React/ Typescript) | Boadilla del Monte, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1636192?s=gh-spain-jobs-2027) |
@@ -197,8 +197,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stanley Black & Decker** | Data Operations and Business Intelligence Manager | Bergueda | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000049767?s=gh-spain-jobs-2027) |
 | **KION Group** | Field Service Engineer | Pinto | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0095245?s=gh-spain-jobs-2027) |
 | **KION Group** | Field Service Engineer | L'Hospitalet de Llobregat | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0090889?s=gh-spain-jobs-2027) |
-| **Hudl** | Support Specialist, Capture & Scouting | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-hudl-8398571?s=gh-spain-jobs-2027) |
 | **Novanta** | Supply Chain Intern | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009727?s=gh-spain-jobs-2027) |
+| **Hudl** | Support Specialist, Capture & Scouting | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-hudl-8398571?s=gh-spain-jobs-2027) |
 | **Salesforce** | Account Executive - Agentforce Operations | Spain - Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363121?s=gh-spain-jobs-2027) |
 | **Salesforce** | Account Executive - Agentforce Operations | Spain - Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363120?s=gh-spain-jobs-2027) |
 | **Air Liquide** | INTERNSHIP OPERATIONS - MEJORA CONTINUA | Spain | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10105517?s=gh-spain-jobs-2027) |
@@ -262,9 +262,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **KION Group** | Software Solution Architect | Barcelona | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0090651?s=gh-spain-jobs-2027) |
-| **KION Group** | Software Consultant | Barcelona | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0096622?s=gh-spain-jobs-2027) |
-| **KION Group** | Racking Solutions Specialist | Barcelona | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0081397?s=gh-spain-jobs-2027) |
+| **KION Group** | Software Solution Architect | Barcelona | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0090651?s=gh-spain-jobs-2027) |
+| **KION Group** | Software Consultant | Barcelona | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0096622?s=gh-spain-jobs-2027) |
+| **KION Group** | Racking Solutions Specialist | Barcelona | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0081397?s=gh-spain-jobs-2027) |
+| **Dexcom** | Commercial Execution & Enablement Manager – Healthcare – Barcelona | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dexcom-dexcom-JR121346?s=gh-spain-jobs-2027) |
+| **Novanta** | Intern Procurement Department | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009495?s=gh-spain-jobs-2027) |
 | **Air Liquide** | Maintenance Technician | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10105595?s=gh-spain-jobs-2027) |
 | **Philips** | Customer Collaboration Manager PH Iberia and IIG | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-594137?s=gh-spain-jobs-2027) |
 | **PricewaterhouseCoopers** | IFS    Prácticas Marketing Digital e Innovación– PwC | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-775318WD?s=gh-spain-jobs-2027) |
@@ -278,8 +280,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **PTC** | Inside Sales Manager - DACH | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR113106?s=gh-spain-jobs-2027) |
 | **HP Inc** | Medium Business Inside Sales Manager  - German Speaking | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168608?s=gh-spain-jobs-2027) |
 | **CrowdStrike** | Regional Sales Engineer, Spain (Remote) | Spain, ES +1 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R31076?s=gh-spain-jobs-2027) |
-| **Dexcom** | Commercial Execution & Enablement Manager – Healthcare – Barcelona | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dexcom-dexcom-JR121346?s=gh-spain-jobs-2027) |
-| **Novanta** | Intern Procurement Department | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009495?s=gh-spain-jobs-2027) |
 | **Salesforce** | Account Executive, Public Sector, EDU | Spain - Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR369117?s=gh-spain-jobs-2027) |
 | **GE Vernova** | Engineer - Mechanical Engineering | Barcelona, ES +1 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5057691?s=gh-spain-jobs-2027) |
 | **GE Vernova** | Installation Engineer | Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5055354?s=gh-spain-jobs-2027) |
@@ -301,7 +301,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HP Inc** | Sales Coach – Multi Country Sales Center | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3169504?s=gh-spain-jobs-2027) |
 | **HP Inc** | Inside Presales Computing Technical Consultant with German language | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3170093?s=gh-spain-jobs-2027) |
 | **Cigna** | Medical Management Specialist - Cigna Healthcare | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26012807?s=gh-spain-jobs-2027) |
-| **Analog Devices** | Engineer, Digital Design Engineering | Spain | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267331?s=gh-spain-jobs-2027) |
 | **Analog Devices** | Digital Design Engineering​ Intern | Spain | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267043?s=gh-spain-jobs-2027) |
 | **BP** | Temporary Environmental Advisor | Spain - Castellón, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bpinternational-bpprivateexternalcareers-RQ118139?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Alcobendas Coordinadora de Seguridad y Salud Puertollano | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1258554801?s=gh-spain-jobs-2027) |
@@ -340,14 +339,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Red Bull** | Internship - Trade Marketing POS (Off Premise) | Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000162242099?s=gh-spain-jobs-2027) |
 | **JPMorgan Chase** | Private Bank, Investment Professional - Analyst Madrid | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210810328?s=gh-spain-jobs-2027) |
 | **Thermo Fisher Scientific** | Clinical Trial Coordinator | Not specified | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01358969?s=gh-spain-jobs-2027) |
+| **Brunswick** | Supply Planner, EMEA | Alicante | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051566?s=gh-spain-jobs-2027) |
+| **Avis Budget Group** | Rental Sales Agent Valencia Aeropuerto | Valencia Aeropuerto, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0191963?s=gh-spain-jobs-2027) |
+| **Dexcom** | Territory  Sales Manager - Castilla y León | Spain, ES +4 more | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dexcom-dexcom-JR120736?s=gh-spain-jobs-2027) |
 | **AIG** | Underwriting Assistant (German Speaker) | Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2604861?s=gh-spain-jobs-2027) |
 | **Thomson Reuters** | Sales Development Representative French/English Speaking | Madrid Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-Madrid?s=gh-spain-jobs-2027) |
 | **PTC** | Sales Compliance Intern - German Speaker | Barcelona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112469?s=gh-spain-jobs-2027) |
-| **Brunswick** | Supply Planner, EMEA | Alicante | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051566?s=gh-spain-jobs-2027) |
-| **Dexcom** | Territory  Sales Manager - Castilla y León | Spain, ES +4 more | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dexcom-dexcom-JR120736?s=gh-spain-jobs-2027) |
 | **Cigna** | Fraud Analyst - Cigna Healthcare | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013297?s=gh-spain-jobs-2027) |
 | **Cigna** | Intake Care Representative - GHB EU - Cigna Healthcare | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26013467?s=gh-spain-jobs-2027) |
-| **Avis Budget Group** | Rental Sales Agent Valencia Aeropuerto | Valencia Aeropuerto, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0191963?s=gh-spain-jobs-2027) |
 | **Wolters Kluwer** | Field Sales Executive | ESP Madrid Castellana, ES +1 more | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wk-external-R0060850?s=gh-spain-jobs-2027) |
 | **Aveva** | Forward Deployed Solution Engineer - Crosser | Manoteras | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aveva-aveva-careers-R015921?s=gh-spain-jobs-2027) |
 | **Stanley Black & Decker** | Digital Marketing Trainee | Bergueda | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053430?s=gh-spain-jobs-2027) |
@@ -362,6 +361,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Thermo Fisher Scientific** | EMEA Market Development Manager Hemato Oncology | Spain, ES +3 more | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01375024?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Business Analyst junior con Francés | Sevilla, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000162008634?s=gh-spain-jobs-2027) |
 | **HPE** | LASER Microsoft BDM | Las Rozas Madrid Spain, ES +2 more | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218755?s=gh-spain-jobs-2027) |
+| **HPE** | Digital Sales - Part time Intern | Barcelona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1217182?s=gh-spain-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -448,7 +448,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 692 current opportunities from 114 companies**
+**🎯 691 current opportunities from 114 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
