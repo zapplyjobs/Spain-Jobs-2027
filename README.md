@@ -191,8 +191,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Técnico de Metrología: Gestión de equipos de análisis en un laboratorio de control de productos... | Esplugues de Llobregat, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000162717484?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Ingeniero/a Técnico de Mantenimiento | Las Palmas de Gran Canaria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162709914?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Prevención de Riesgos Laborales | Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162701730?s=gh-spain-jobs-2027) |
-| **Carrier Global** | Field Service Technician I | ESP2841: Avenida de la Industria 6 | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30222327?s=gh-spain-jobs-2027) |
 | **Arrow Electronics** | Network / Technical Support Engineer (English & Spanish speaker) | ES-Spain | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R244282?s=gh-spain-jobs-2027) |
+| **Carrier Global** | Field Service Technician I | ESP2841: Avenida de la Industria 6 | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30222327?s=gh-spain-jobs-2027) |
 | **Salesforce** | Solution Engineer - Agentforce Operations | Spain - Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR363122?s=gh-spain-jobs-2027) |
 | **Hitachi** | Field Service Technician | Cordoba Cordoba Spain, ES +1 more | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0147759?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Alcobendas Técnicoa CAE Puertollano | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1458765233?s=gh-spain-jobs-2027) |
@@ -364,7 +364,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **John Deere** | Instructor | PARLA | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-johndeere-137484467494?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Red Team Specialist | Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000162040474?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Business Analyst junior con Francés | Sevilla, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000162008634?s=gh-spain-jobs-2027) |
-| **HPE** | LASER Microsoft BDM | Las Rozas Madrid Spain, ES +2 more | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218755?s=gh-spain-jobs-2027) |
+| **Equinix** | Sales Engineer - Telco & Media | Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-equinix-external-JR-164737?s=gh-spain-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
