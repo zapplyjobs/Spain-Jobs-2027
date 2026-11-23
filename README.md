@@ -183,9 +183,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Técnico/a de Prevención de Riesgos Laborales Junior - Lleida | Lleida, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163160250?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a de Prevención de Riesgos Laborales | Barcelona, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163161299?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a de Seguridad y Salud Laboral - Lleida | Lleida, ES | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163161149?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Prevención de Riesgos Laborales Junior - Lleida | Lleida, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163160250?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Prevención de Riesgos Laborales | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163161299?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Seguridad y Salud Laboral - Lleida | Lleida, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163161149?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Zaragoza Técnicoa de Proyecto | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1459263233?s=gh-spain-jobs-2027) |
 | **Eurofins** | Técnico de Metrología: Gestión de equipos de análisis en un laboratorio de control de productos... | Esplugues de Llobregat, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000162717484?s=gh-spain-jobs-2027) |
 | **Avnet** | Supply Chain Sales Support | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avnet-external-JR-024483?s=gh-spain-jobs-2027) |
@@ -263,10 +263,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AIG** | HR Business Partner – Iberia | Madrid, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2603963?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Ingeniero/as de Estudios Agua Industrial | Alicante, ES | 30m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163156514?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Ingeniero/as de Estudios Agua Industrial | Benicalap, ES | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163156629?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Ingeniero/as de Estudios Agua Industrial | Sevilla, ES | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163156509?s=gh-spain-jobs-2027) |
+| **AIG** | HR Business Partner – Iberia | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2603963?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Ingeniero/as de Estudios Agua Industrial | Alicante, ES | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163156514?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Ingeniero/as de Estudios Agua Industrial | Benicalap, ES | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163156629?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Ingeniero/as de Estudios Agua Industrial | Sevilla, ES | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163156509?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Rota SUPERVISORA DE INSTALACIONES PROVISIONALES CA | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1459160033?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Rota SUPERVISORA DE HABILITACION CA | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1459159533?s=gh-spain-jobs-2027) |
 | **TD Synnex** | Internal Sales Executive (Temporary) | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R58166?s=gh-spain-jobs-2027) |
@@ -352,7 +352,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Commvault** | Sales Development (SDR) Manager | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-commvault-5481263008?s=gh-spain-jobs-2027) |
 | **John Deere** | Instructor | PARLA | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-johndeere-137484467494?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Red Team Specialist | Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000162040474?s=gh-spain-jobs-2027) |
-| **Carrier Global** | Mecánico Frigorista I | ESP2841: Avenida de la Industria 6 | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30218878?s=gh-spain-jobs-2027) |
+| **Carrier Global** | Mecánico Frigorista I | ESP2841: Avenida de la Industria 6 | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30218878?s=gh-spain-jobs-2027) |
 | **AIG** | Underwriting Assistant (German Speaker) | Madrid, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aig-aig-JR2604861?s=gh-spain-jobs-2027) |
 | **Aveva** | Forward Deployed Solution Engineer - Crosser | Manoteras | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aveva-aveva-careers-R015921?s=gh-spain-jobs-2027) |
 | **Brunswick** | Supply Planner, EMEA | Alicante | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051566?s=gh-spain-jobs-2027) |
