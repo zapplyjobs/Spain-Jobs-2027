@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Salesforce** | Cloud Account Executive - Analytics | Spain - Madrid, ES | 5m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR369604?s=gh-spain-jobs-2027) |
+| **Salesforce** | Cloud Account Executive - Analytics | Spain - Madrid, ES | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR369604?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Security Compliance Analyst | Madrid, ES | 19h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000163889276?s=gh-spain-jobs-2027) |
 | **Eurofins** | Applications Cybersecurity Specialist | Barcelona, ES | 22h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000163861349?s=gh-spain-jobs-2027) |
 | **TD Synnex** | Deal Desk & Cloud Marketplace Specialist | Barcelona | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R58002?s=gh-spain-jobs-2027) |
@@ -198,7 +198,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bureau Veritas** | Cordoba Técnicoa PRL | Spain | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1461117633?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Granada Técnicoa PRL | Spain | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1461123533?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento Polivalente (electricidad y climatización) TEMPORAL | Madrid, ES | 18h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163895129?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Técnico/a de Mantenimiento Climatización | Madrid, ES | 20h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163874099?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Técnico/a de Mantenimiento Climatización | Madrid, ES | 21h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163874099?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento Climatización | Madrid, ES | 21h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163869281?s=gh-spain-jobs-2027) |
 | **Sopra Steria** | Agente de Soporte de Aplicaciones N0 | Barcelona, ES | 23h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000163850539?s=gh-spain-jobs-2027) |
 | **Iberdrola** | Técnico/a Junior de Logística y Aprovisionamientos | Spain | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-31415?s=gh-spain-jobs-2027) |
@@ -281,11 +281,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Pfizer** | Enfermero/a del trabajo | Spain - Madrid | 5m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4968363?s=gh-spain-jobs-2027) |
-| **HP Inc** | Commercial Inside Account Executive – Dutch Speaking | Sant Cugat del Valles | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168598?s=gh-spain-jobs-2027) |
-| **Veolia Environnement SA** | Operador/a de Sala de Control BMS con experiencia en Electricidad y Climatización | Madrid, ES | 23m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163997850?s=gh-spain-jobs-2027) |
-| **Fresenius Medical Care** | Enfermera/o (Logroño) | Rioja, LA | 50m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0279431?s=gh-spain-jobs-2027) |
-| **Fresenius Medical Care** | Enfermera/o (Tenerife) | Santa Cruz de Tenerife | 50m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0279404?s=gh-spain-jobs-2027) |
+| **Pfizer** | Enfermero/a del trabajo | Spain - Madrid | 11m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4968363?s=gh-spain-jobs-2027) |
+| **HP Inc** | Commercial Inside Account Executive – Dutch Speaking | Sant Cugat del Valles | 18m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168598?s=gh-spain-jobs-2027) |
+| **Veolia Environnement SA** | Operador/a de Sala de Control BMS con experiencia en Electricidad y Climatización | Madrid, ES | 29m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163997850?s=gh-spain-jobs-2027) |
+| **Fresenius Medical Care** | Enfermera/o (Logroño) | Rioja, LA | 56m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0279431?s=gh-spain-jobs-2027) |
+| **Fresenius Medical Care** | Enfermera/o (Tenerife) | Santa Cruz de Tenerife | 56m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0279404?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Oficial 1ª Soldador/a | San Sebastian de la Gomera, ES | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163994029?s=gh-spain-jobs-2027) |
 | **Veolia Environnement SA** | Oficial 1ª Soldador/a | Valverde, ES | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163991800?s=gh-spain-jobs-2027) |
 | **Fresenius Medical Care** | Auxiliar de Enfermería (Terrasa) | Terrassa | 4h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0279325?s=gh-spain-jobs-2027) |
@@ -293,7 +293,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fortinet** | Channel Sales Account Manager, Enterprise Partners (Ind Contributor) - Spain | Madrid | 10h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-25059?s=gh-spain-jobs-2027) |
 | **American Express** | Compliance Assistant AML | Madrid | 10h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-american-express-26015590?s=gh-spain-jobs-2027) |
 | **Scopely** | Game Analyst, Product Strategy | ES - Barcelona | 12h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scopely-5483346008?s=gh-spain-jobs-2027) |
-| **Dandy** | Account Executive Manager (Spain) | Spain - Barcelona | 15h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-dandy-425a1b67-c767-4b3a-b62f-47dfce0f7553?s=gh-spain-jobs-2027) |
+| **Dandy** | Account Executive Manager (Spain) | Spain - Barcelona | 16h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-dandy-425a1b67-c767-4b3a-b62f-47dfce0f7553?s=gh-spain-jobs-2027) |
 | **Salesforce** | Events Specialist | Spain Barcelona, ES +1 more | 16h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR365935?s=gh-spain-jobs-2027) |
 | **Bureau Veritas** | Málaga Coordinadora de Seguridad y Salud | Spain | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1461111233?s=gh-spain-jobs-2027) |
 | **AbbVie** | Regulatory Affairs Manager | Madrid, ES | 17h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017108336?s=gh-spain-jobs-2027) |
