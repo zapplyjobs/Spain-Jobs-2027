@@ -279,10 +279,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AstraZeneca** | Personal Assistant | Spain - Madrid, ES | 29m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264993?s=gh-spain-jobs-2027) |
-| **HPE** | Compute Presales Architect | Las Rozas | 54m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1219449?s=gh-spain-jobs-2027) |
-| **Arrow Electronics** | Inside Sales Representative | ES-Sant Just Desvern | 54m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R248435?s=gh-spain-jobs-2027) |
-| **Johnson Controls** | Inside Sales Consultant for UK Market | Las Rozas-Madrid-Spain, ES | 54m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30286279?s=gh-spain-jobs-2027) |
+| **AstraZeneca** | Personal Assistant | Spain - Madrid, ES | 35m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264993?s=gh-spain-jobs-2027) |
+| **HPE** | Compute Presales Architect | Las Rozas | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1219449?s=gh-spain-jobs-2027) |
+| **Arrow Electronics** | Inside Sales Representative | ES-Sant Just Desvern | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R248435?s=gh-spain-jobs-2027) |
+| **Johnson Controls** | Inside Sales Consultant for UK Market | Las Rozas-Madrid-Spain, ES | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30286279?s=gh-spain-jobs-2027) |
 | **Fresenius Medical Care** | Enfermera/o (Logroño) | Rioja, LA | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0279431?s=gh-spain-jobs-2027) |
 | **Deutsche Bank** | Investment Banking & Capital Markets/FIG Professional Practice Programme (f/m/x) | Madrid Paseo Castellana 18, ES | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0455612?s=gh-spain-jobs-2027) |
 | **Deutsche Bank** | Divisional Risk and Control Analyst (f/m/x) | Madrid Paseo Castellana 18, ES | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0455833?s=gh-spain-jobs-2027) |
@@ -295,13 +295,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HP Inc** | Sales Coach – Multi Country Sales Center | Sant Cugat del Valles | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3169549?s=gh-spain-jobs-2027) |
 | **HP Inc** | Commercial Inside Account Executive – Dutch Speaking | Sant Cugat del Valles | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168598?s=gh-spain-jobs-2027) |
 | **Johnson & Johnson** | Acuvue Account Manager, zona Levante (Delegado de ventas) | Valencia Spain, ES +1 more | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-112926?s=gh-spain-jobs-2027) |
-| **Pfizer** | Enfermero/a del trabajo | Spain - Madrid | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4968363?s=gh-spain-jobs-2027) |
+| **Pfizer** | Enfermero/a del trabajo | Spain - Madrid | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4968363?s=gh-spain-jobs-2027) |
 | **GE Vernova** | Field Supervisor (Supervisor/a de Servicios de Campo) | Madrid, ES | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5059883?s=gh-spain-jobs-2027) |
 | **Stanley Black & Decker** | Delegado/a Comercial Asturias Stanley | Bergueda | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053094?s=gh-spain-jobs-2027) |
 | **Stanley Black & Decker** | Delegado/a Comercial FACOM Asturias | Bergueda | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053112?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Frigorista - Girona | Barcelona-Barcelona-Spain, ES | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30284966?s=gh-spain-jobs-2027) |
 | **Johnson Controls** | Frigorista Puesta en Marcha - Levante | Valencia-Valencia-Spain, ES | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30284856?s=gh-spain-jobs-2027) |
-| **Santander** | Banquero/a Santander Private Banking Madrid | Madrid, ES | 3h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1611527?s=gh-spain-jobs-2027) |
+| **Santander** | Banquero/a Santander Private Banking Madrid | Madrid, ES | 4h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1611527?s=gh-spain-jobs-2027) |
 | **Fresenius Medical Care** | Enfermera/o (Tenerife) | Santa Cruz de Tenerife | 5h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0279404?s=gh-spain-jobs-2027) |
 | **Sanofi** | Logistics Engineering Analyst - VIE Contract | Barcelona | Date unknown | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-47290479680?s=gh-spain-jobs-2027) |
 | **Bosch Group** | Gestor/a Inplant – Sector Renting   Madrid | Madrid, ES | 13h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000164046470?s=gh-spain-jobs-2027) |
